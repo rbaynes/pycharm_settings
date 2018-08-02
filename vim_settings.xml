@@ -39,8 +39,8 @@
       <file name="$USER_HOME$/src/python/py_types.py" timestamp="1532973970795">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/jbrain/iot/iot_pubsub.py" timestamp="1533238457568">
-        <mark key="'" line="81" column="13" />
+      <file name="$USER_HOME$/jbrain/iot/iot_pubsub.py" timestamp="1533240547395">
+        <mark key="'" line="333" column="8" />
         <mark key="[" line="94" column="59" />
         <mark key="]" line="94" column="59" />
         <mark key="^" line="94" column="31" />
@@ -72,21 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="415" column="0" filename="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" />
-      <jump line="394" column="12" filename="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="235" column="45" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="236" column="51" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="237" column="49" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="224" column="43" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="54" column="4" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="225" column="45" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="34" column="27" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="226" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="229" column="1" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="299" column="12" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="230" column="35" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="277" column="20" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="208" column="12" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="243" column="16" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
@@ -172,6 +157,21 @@
       <jump line="704" column="47" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
       <jump line="737" column="52" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
       <jump line="81" column="13" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="93" column="30" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="336" column="21" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="338" column="5" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="339" column="8" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="342" column="14" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="650" column="12" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="651" column="46" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="660" column="17" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="661" column="33" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="662" column="17" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="60" column="5" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="84" column="11" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="86" column="18" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="90" column="42" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
+      <jump line="333" column="8" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -181,7 +181,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXZpY2VJZFw+</text>
+        <text>lastConfigVer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICBzZWxmLl9lcnJvciA9ICJVbmFibGUgdG8gbG9hZCBhYm91dC5qc29uIGZpbGUuIgogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKHNlbGYuX2Vycm9yKQo=</text>
@@ -219,15 +219,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXZpY2VJZFw+</last-search>
+      <last-search>lastConfigVer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXZpY2VJZFw+</last-pattern>
+      <last-pattern>lastConfigVer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry encoding="base64">XDxkYXRhc3RvcmVcPg==</entry>
         <entry encoding="base64">XDxzYXZlX2RhdGFfdG9fRGV2aWNlXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNfcHVibGlzaF9mcmVxdWVuY3lfc2Vjb25kc1w+</entry>
@@ -247,6 +246,7 @@
         <entry>debugrob</entry>
         <entry encoding="base64">XDxkZXZpY2VfaWRcPg==</entry>
         <entry encoding="base64">XDxkZXZpY2VJZFw+</entry>
+        <entry>lastConfigVer</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
