@@ -44,6 +44,9 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/jbrain/resource/resource_manager.py" timestamp="1533227761171">
+        <mark key="'" line="44" column="17" />
+      </file>
       <file name="/" timestamp="1532975988739">
         <mark key="[" line="0" column="0" />
       </file>
@@ -100,6 +103,9 @@
       <jump line="234" column="54" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="251" column="16" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="231" column="1" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/jbrain/resource/resource_manager.py" />
+      <jump line="41" column="50" filename="$USER_HOME$/jbrain/resource/resource_manager.py" />
+      <jump line="44" column="17" filename="$USER_HOME$/jbrain/resource/resource_manager.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -118,13 +124,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>debugrob</text>
+        <text>state</text>
       </register>
     </registers>
     <search>
-      <last-search>debugrob</last-search>
+      <last-search>state</last-search>
       <last-offset />
-      <last-pattern>debugrob</last-pattern>
+      <last-pattern>state</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -138,6 +144,7 @@
         <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
         <entry encoding="base64">XDxnbXRpbWVcPg==</entry>
         <entry>debugrob</entry>
+        <entry>state</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
