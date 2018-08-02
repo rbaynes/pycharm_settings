@@ -181,7 +181,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lastConfigVer</text>
+        <text>debugrob</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICBzZWxmLl9lcnJvciA9ICJVbmFibGUgdG8gbG9hZCBhYm91dC5qc29uIGZpbGUuIgogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKHNlbGYuX2Vycm9yKQo=</text>
@@ -219,9 +219,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lastConfigVer</last-search>
+      <last-search>debugrob</last-search>
       <last-offset />
-      <last-pattern>lastConfigVer</last-pattern>
+      <last-pattern>debugrob</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -243,10 +243,10 @@
         <entry encoding="base64">XDx0aW1lX2VsYXBzZWRfc3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X3JlY2lwZVw+</entry>
         <entry>time_elapsed_string</entry>
-        <entry>debugrob</entry>
         <entry encoding="base64">XDxkZXZpY2VfaWRcPg==</entry>
         <entry encoding="base64">XDxkZXZpY2VJZFw+</entry>
         <entry>lastConfigVer</entry>
+        <entry>debugrob</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
