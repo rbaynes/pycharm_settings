@@ -6,14 +6,13 @@
       <file name="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" timestamp="1533047905782">
         <mark key="'" line="394" column="12" />
       </file>
-      <file name="$USER_HOME$/jbrain/iot/iot_manager.py" timestamp="1533235915921">
-        <mark key="a" line="45" column="8" />
+      <file name="$USER_HOME$/jbrain/iot/iot_manager.py" timestamp="1533237129334">
         <mark key="b" line="45" column="25" />
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="^" line="240" column="19" />
-        <mark key="." line="233" column="0" />
+        <mark key="'" line="259" column="0" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="^" line="219" column="61" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1533226553990">
         <mark key="[" line="0" column="0" />
@@ -48,6 +47,12 @@
       <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/utils/database.py" timestamp="1532972690841">
         <mark key="'" line="27" column="54" />
       </file>
+      <file name="$USER_HOME$/jbrain/device/managers/recipe.py" timestamp="1533236171253">
+        <mark key="a" line="245" column="12" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="249" column="74" />
+      </file>
       <file name="$USER_HOME$/src/python/types.py" timestamp="1532973618613">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
@@ -65,10 +70,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="23" filename="$USER_HOME$/src/python/test.py" />
-      <jump line="47" column="63" filename="$USER_HOME$/src/python/test.py" />
-      <jump line="51" column="26" filename="$USER_HOME$/src/python/test.py" />
-      <jump line="162" column="12" filename="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" />
       <jump line="177" column="57" filename="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" />
       <jump line="183" column="12" filename="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" />
       <jump line="295" column="44" filename="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" />
@@ -92,7 +93,6 @@
       <jump line="9" column="10" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="229" column="1" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="299" column="12" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="228" column="31" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="230" column="35" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="277" column="20" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="208" column="12" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
@@ -165,55 +165,61 @@
       <jump line="200" column="35" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
       <jump line="201" column="39" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
       <jump line="20" column="9" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/jbrain/device/managers/recipe.py" />
+      <jump line="228" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
+      <jump line="261" column="1" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
+      <jump line="215" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
+      <jump line="259" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50X3JlY2lwZVw+</text>
+        <text>debugrob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXR1c19kaWN0WyJpb3Rfc3RhdHVzIl0gPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICBzZWxmLl9lcnJvciA9ICJVbmFibGUgdG8gbG9hZCBhYm91dC5qc29uIGZpbGUuIgogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKHNlbGYuX2Vycm9yKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRlYnVncm9iLCBzZW5kIHRoaXMgbWVzc2FnZSEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHNlbGYubG9nZ2VyLmluZm8oIlB1Ymxpc2hlZCBzdGF0dXMgbWVzc2FnZS4iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRlYnVncm9iLCBzZW5kIHRoaXMgbWVzc2FnZSEK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>status_dict)
+                self.iot.publishCommandReply(&quot;b</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZi5zdGF0ZS5pb3RbInB1Ymxpc2hlZF9tZXNzYWdlX2NvdW50Il0K</text>
+        <text encoding="base64">I2RlYnVncm9iLCBmaWxsIGFsbCB0aGVzZSBpbiwgZ2V0IGZyb20gc3RhdGUucmVzb3VyY2VbLi4uXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlLmlvdFsicmVjZWl2ZWRfbWVzc2FnZV9jb3VudCJdCiAgICAgICAgc2VsZi5zdGF0ZS5pb3RbInB1Ymxpc2hlZF9tZXNzYWdlX2NvdW50Il0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlLmlvdFsiZXJyb3IiXQo=</text>
+        <text encoding="base64">c3RhdHVzX2RpY3RbInJlY2lwZV90aW1lX3JlbWFpbmluZyJdID0gImRlYnVncm9iIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">c3RhdHVzX2RpY3RbInJlY2lwZV90aW1lX2VsYXBzZWQiXSA9ICJkZWJ1Z3JvYiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50X3JlY2lwZVw+</last-search>
+      <last-search>debugrob</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50X3JlY2lwZVw+</last-pattern>
+      <last-pattern>debugrob</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -232,10 +238,11 @@
         <entry>debugerob</entry>
         <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
         <entry>state</entry>
-        <entry>debugrob</entry>
         <entry>Elaps</entry>
         <entry encoding="base64">XDx0aW1lX2VsYXBzZWRfc3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X3JlY2lwZVw+</entry>
+        <entry>time_elapsed_string</entry>
+        <entry>debugrob</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
