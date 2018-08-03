@@ -20,18 +20,32 @@
       <file name="/Python Console" timestamp="1532973754618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/run.sh" timestamp="1533308923187">
+      <file name="$USER_HOME$/src/python/base64_decode.py" timestamp="1533316544006">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="44" />
+        <mark key="." line="38" column="44" />
+        <mark key="^" line="38" column="44" />
+      </file>
+      <file name="$USER_HOME$/jbrain/run.sh" timestamp="1533310118970">
         <mark key="'" line="67" column="15" />
-        <mark key="[" line="30" column="50" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="30" column="50" />
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="90" />
+        <mark key="^" line="30" column="15" />
       </file>
       <file name="$USER_HOME$/src/python/get_IP_address.py" timestamp="1533222259655">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="24" />
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/python/base64_encode.py" timestamp="1533316489207">
+        <mark key="'" line="46" column="45" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="38" column="60" />
       </file>
       <file name="$USER_HOME$/src/python/test.py" timestamp="1532975862122">
         <mark key="'" line="51" column="26" />
@@ -98,10 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="202" column="41" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="203" column="40" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
       <jump line="204" column="40" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
       <jump line="205" column="46" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
       <jump line="211" column="18" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
@@ -198,62 +208,64 @@
       <jump line="57" column="32" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="58" column="57" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="61" column="15" filename="$USER_HOME$/jbrain/run.sh" />
+      <jump line="48" column="0" filename="$USER_HOME$/src/python/base64_encode.py" />
+      <jump line="7" column="7" filename="$USER_HOME$/src/python/base64_encode.py" />
+      <jump line="47" column="45" filename="$USER_HOME$/src/python/base64_encode.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/python/base64_decode.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>.encode('utf-8')).decode())</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>.encode('utf-8')).decode())</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text encoding="base64">XDxzeXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4aXQgMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJkaWRudCB3b3JrIgo=</text>
+        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJyZWNpcGVfdmVyc2lvbiI6ICI8TUFKT1I+LjxNSU5PUj4uPFBBVENIPiIsCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJyZWNpcGVfdmVyc2lvbiI6ICIwLjEuMiIsCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygicGFja2VkOiB7fSIuZm9ybWF0KHBhY2tlZCkpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRlYnVncm9iLCBzZW5kIHRoaXMgbWVzc2FnZSEK</text>
+        <text encoding="base64">ICAgIHBhY2tlZCA9IHN0cnVjdC5wYWNrKCJzIiwgY29udGVudHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHNlbGYubG9nZ2VyLmluZm8oIlB1Ymxpc2hlZCBzdGF0dXMgbWVzc2FnZS4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRlYnVncm9iLCBzZW5kIHRoaXMgbWVzc2FnZSEK</text>
+        <text encoding="base64">ICAgICMgbG9nZ2luZy5pbmZvKCAnQmFzZTY0IGZpbGUgY29udGVudHM6IHt9Jy5mb3JtYXQoIGI2NF9zdHJpbmcgKSkK</text>
       </register>
-      <register name="8" type="4">
-        <text>status_dict)
-                self.iot.publishCommandReply(&quot;b</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGI2NF9zdHJpbmcgPSBieXRlX3N0cmluZy5kZWNvZGUoInV0Zi04IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2RlYnVncm9iLCBmaWxsIGFsbCB0aGVzZSBpbiwgZ2V0IGZyb20gc3RhdGUucmVzb3VyY2VbLi4uXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search encoding="base64">XDxzeXNcPg==</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern encoding="base64">XDxzeXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXZlX2RhdGFfdG9fRGV2aWNlXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNfcHVibGlzaF9mcmVxdWVuY3lfc2Vjb25kc1w+</entry>
         <entry encoding="base64">XDxzdGF0dXNfcHVibGlzaF9mcmVxX3NlY29uZHNcPg==</entry>
         <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
@@ -273,12 +285,13 @@
         <entry>debugrob</entry>
         <entry encoding="base64">XDxhYm91dFw+</entry>
         <entry>state</entry>
+        <entry encoding="base64">XDxzeXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
