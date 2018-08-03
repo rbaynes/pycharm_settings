@@ -39,12 +39,9 @@
       <file name="$USER_HOME$/src/python/py_types.py" timestamp="1532973970795">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/jbrain/iot/iot_pubsub.py" timestamp="1533240547395">
+      <file name="$USER_HOME$/jbrain/iot/iot_pubsub.py" timestamp="1533304832903">
         <mark key="'" line="333" column="8" />
-        <mark key="[" line="94" column="59" />
-        <mark key="]" line="94" column="59" />
         <mark key="^" line="94" column="31" />
-        <mark key="." line="94" column="59" />
       </file>
       <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/utils/database.py" timestamp="1532972690841">
         <mark key="'" line="27" column="54" />
@@ -174,8 +171,8 @@
       <jump line="333" column="8" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBhIChyZW5ld2FibGUpIGNsaWVudCB3aXRoIHRva2VucyB0aGF0IHdpbGwgdGltZW91dAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -184,7 +181,7 @@
         <text>debugrob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICBzZWxmLl9lcnJvciA9ICJVbmFibGUgdG8gbG9hZCBhYm91dC5qc29uIGZpbGUuIgogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmNyaXRpY2FsKHNlbGYuX2Vycm9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBhIChyZW5ld2FibGUpIGNsaWVudCB3aXRoIHRva2VucyB0aGF0IHdpbGwgdGltZW91dAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -264,11 +261,17 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
