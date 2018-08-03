@@ -20,6 +20,13 @@
       <file name="/Python Console" timestamp="1532973754618">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/jbrain/run.sh" timestamp="1533308923187">
+        <mark key="'" line="67" column="15" />
+        <mark key="[" line="30" column="50" />
+        <mark key="]" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="30" column="50" />
+      </file>
       <file name="$USER_HOME$/src/python/get_IP_address.py" timestamp="1533222259655">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="24" />
@@ -91,7 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="45" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="0" column="0" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
       <jump line="202" column="41" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
@@ -191,50 +197,51 @@
       <jump line="55" column="16" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="57" column="32" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="58" column="57" filename="$USER_HOME$/jbrain/device/managers/device.py" />
+      <jump line="61" column="15" filename="$USER_HOME$/jbrain/run.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSJyZWNpcGVfdmVyc2lvbiI6ICI8TUFKT1I+LjxNSU5PUj4uPFBBVENIPiIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PE1BSk9SPi48TUlOT1I+LjxQQVRDSD4iLA==</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSJyZWNpcGVfdmVyc2lvbiI6ICI8TUFKT1I+LjxNSU5PUj4uPFBBVENIPiIsCg==</text>
+        <text encoding="base64">ICAgIGV4aXQgMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJyZWNpcGVfdmVyc2lvbiI6ICI8TUFKT1I+LjxNSU5PUj4uPFBBVENIPiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJkaWRudCB3b3JrIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJyZWNpcGVfdmVyc2lvbiI6ICIwLjEuMiIsCg==</text>
+        <text encoding="base64">CSJyZWNpcGVfdmVyc2lvbiI6ICI8TUFKT1I+LjxNSU5PUj4uPFBBVENIPiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJyZWNpcGVfdmVyc2lvbiI6ICIwLjEuMiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRlYnVncm9iLCBzZW5kIHRoaXMgbWVzc2FnZSEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHNlbGYubG9nZ2VyLmluZm8oIlB1Ymxpc2hlZCBzdGF0dXMgbWVzc2FnZS4iKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRlYnVncm9iLCBzZW5kIHRoaXMgbWVzc2FnZSEK</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHNlbGYubG9nZ2VyLmluZm8oIlB1Ymxpc2hlZCBzdGF0dXMgbWVzc2FnZS4iKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRlYnVncm9iLCBzZW5kIHRoaXMgbWVzc2FnZSEK</text>
+      </register>
+      <register name="8" type="4">
         <text>status_dict)
                 self.iot.publishCommandReply(&quot;b</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">I2RlYnVncm9iLCBmaWxsIGFsbCB0aGVzZSBpbiwgZ2V0IGZyb20gc3RhdGUucmVzb3VyY2VbLi4uXQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiIgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -269,9 +276,9 @@
       </history-search>
       <history-cmd>
         <entry>bd</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
