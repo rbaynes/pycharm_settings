@@ -15,27 +15,14 @@
         <mark key="^" line="241" column="34" />
         <mark key="." line="243" column="48" />
       </file>
-      <file name="$USER_HOME$/src/python/py_types.py" timestamp="1532973970795">
-        <mark key="[" line="0" column="22" />
-      </file>
       <file name="/Dummy.txt" timestamp="1533226553990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1532973754618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/iot/iot_pubsub.py" timestamp="1533229406324">
-        <mark key="'" line="359" column="17" />
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="363" column="47" />
-      </file>
-      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/utils/database.py" timestamp="1532972690841">
-        <mark key="'" line="27" column="54" />
-      </file>
-      <file name="$USER_HOME$/src/python/types.py" timestamp="1532973618613">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/openag-device-software/connect/connect_manager.py" timestamp="1533494951815">
+        <mark key="'" line="18" column="30" />
       </file>
       <file name="$USER_HOME$/src/python/get_IP_address.py" timestamp="1533222259655">
         <mark key="[" line="14" column="20" />
@@ -50,6 +37,25 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="/" timestamp="1532975988739">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/py_types.py" timestamp="1532973970795">
+        <mark key="[" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/jbrain/iot/iot_pubsub.py" timestamp="1533229406324">
+        <mark key="'" line="359" column="17" />
+        <mark key="[" line="363" column="0" />
+        <mark key="]" line="363" column="47" />
+      </file>
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/utils/database.py" timestamp="1532972690841">
+        <mark key="'" line="27" column="54" />
+      </file>
+      <file name="$USER_HOME$/src/python/types.py" timestamp="1532973618613">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/jbrain/resource/resource_manager.py" timestamp="1533229144139">
         <mark key="a" line="226" column="19" />
         <mark key="'" line="77" column="35" />
@@ -57,15 +63,8 @@
         <mark key="]" line="229" column="72" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="/" timestamp="1532975988739">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="12" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/utils/database.py" />
-      <jump line="23" column="1" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/utils/database.py" />
-      <jump line="27" column="54" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/utils/database.py" />
-      <jump line="3" column="9" filename="$USER_HOME$/src/python/test.py" />
       <jump line="9" column="30" filename="$USER_HOME$/src/python/test.py" />
       <jump line="16" column="39" filename="$USER_HOME$/src/python/test.py" />
       <jump line="17" column="27" filename="$USER_HOME$/src/python/test.py" />
@@ -161,6 +160,11 @@
       <jump line="359" column="17" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
       <jump line="199" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="45" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/openag-device-software/connect/connect_manager.py" />
+      <jump line="13" column="1" filename="$USER_HOME$/openag-device-software/connect/connect_manager.py" />
+      <jump line="1" column="1" filename="$USER_HOME$/openag-device-software/connect/connect_manager.py" />
+      <jump line="14" column="6" filename="$USER_HOME$/openag-device-software/connect/connect_manager.py" />
+      <jump line="18" column="30" filename="$USER_HOME$/openag-device-software/connect/connect_manager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -170,7 +174,7 @@
         <text>: self.error,</text>
       </register>
       <register name="/" type="4">
-        <text>debugrob</text>
+        <text encoding="base64">XDxSZXNvdXJjZU1hbmFnZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlLmlvdFsK</text>
@@ -207,9 +211,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debugrob</last-search>
+      <last-search encoding="base64">XDxSZXNvdXJjZU1hbmFnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>debugrob</last-pattern>
+      <last-pattern encoding="base64">XDxSZXNvdXJjZU1hbmFnZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -229,6 +233,7 @@
         <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
         <entry>state</entry>
         <entry>debugrob</entry>
+        <entry encoding="base64">XDxSZXNvdXJjZU1hbmFnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
