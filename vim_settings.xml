@@ -3,22 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" timestamp="1533047905782">
-        <mark key="'" line="394" column="12" />
+      <file name="$USER_HOME$/openag-device-software/app/settings.py" timestamp="1533496258161">
+        <mark key="a" line="161" column="9" />
+        <mark key="'" line="200" column="51" />
+        <mark key="[" line="200" column="45" />
+        <mark key="]" line="200" column="45" />
+        <mark key="." line="200" column="51" />
+        <mark key="^" line="199" column="15" />
       </file>
-      <file name="$USER_HOME$/jbrain/iot/iot_manager.py" timestamp="1533237129334">
-        <mark key="b" line="45" column="25" />
-        <mark key="'" line="259" column="0" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="^" line="219" column="61" />
-        <mark key="." line="267" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533226553990">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1532973754618">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/openag-device-software/device/managers/device.py" timestamp="1533496790526">
+        <mark key="'" line="105" column="24" />
+        <mark key="[" line="425" column="46" />
+        <mark key="]" line="425" column="46" />
+        <mark key="^" line="425" column="22" />
+        <mark key="." line="425" column="52" />
       </file>
       <file name="$USER_HOME$/src/python/base64_decode.py" timestamp="1533316544006">
         <mark key="'" line="6" column="0" />
@@ -27,25 +25,19 @@
         <mark key="." line="38" column="44" />
         <mark key="^" line="38" column="44" />
       </file>
-      <file name="$USER_HOME$/jbrain/run.sh" timestamp="1533310118970">
-        <mark key="'" line="67" column="15" />
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="90" />
-        <mark key="^" line="30" column="15" />
-      </file>
       <file name="$USER_HOME$/src/python/get_IP_address.py" timestamp="1533222259655">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="24" />
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/src/python/base64_encode.py" timestamp="1533316489207">
-        <mark key="'" line="46" column="45" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="38" column="60" />
+      <file name="$USER_HOME$/openag-device-software/app/common.py" timestamp="1533496173676">
+        <mark key="a" line="99" column="0" />
+        <mark key="'" line="99" column="12" />
+        <mark key="[" line="113" column="36" />
+        <mark key="]" line="113" column="36" />
+        <mark key="." line="113" column="42" />
+        <mark key="^" line="107" column="18" />
       </file>
       <file name="$USER_HOME$/src/python/test.py" timestamp="1532975862122">
         <mark key="'" line="51" column="26" />
@@ -54,8 +46,95 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/" timestamp="1532975988739">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/openag-device-software/device/state.py" timestamp="1533496072819">
+        <mark key="'" line="31" column="17" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="24" column="37" />
+      </file>
+      <file name="$USER_HOME$/openag-device-software/app/views.py" timestamp="1533496341039">
+        <mark key="a" line="420" column="21" />
+        <mark key="'" line="454" column="31" />
+        <mark key="[" line="455" column="24" />
+        <mark key="]" line="455" column="24" />
+        <mark key="^" line="454" column="31" />
+        <mark key="." line="455" column="30" />
+      </file>
+      <file name="$USER_HOME$/openag-device-software/app/templates/connect.html" timestamp="1533497220776">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+        <mark key="^" line="23" column="45" />
+      </file>
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/utils/database.py" timestamp="1532972690841">
+        <mark key="'" line="27" column="54" />
+      </file>
+      <file name="$USER_HOME$/openag-device-software/app/viewers.py" timestamp="1533496397516">
+        <mark key="a" line="279" column="7" />
+        <mark key="'" line="290" column="19" />
+        <mark key="[" line="288" column="0" />
+        <mark key="]" line="288" column="0" />
+        <mark key="^" line="287" column="10" />
+        <mark key="." line="288" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/types.py" timestamp="1532973618613">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/openag-device-software/iot/iot_manager.py" timestamp="1533497574295">
+        <mark key="'" line="56" column="8" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="137" column="34" />
+      </file>
+      <file name="$USER_HOME$/jbrain/about.json" timestamp="1533307966059">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533305540790">
+        <mark key="'" line="292" column="22" />
+      </file>
+      <file name="$USER_HOME$/openag-device-software/app/urls.py" timestamp="1533496134105">
+        <mark key="'" line="83" column="56" />
+        <mark key="[" line="84" column="55" />
+        <mark key="]" line="84" column="55" />
+        <mark key="." line="84" column="61" />
+        <mark key="^" line="84" column="17" />
+      </file>
+      <file name="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" timestamp="1533047905782">
+        <mark key="'" line="394" column="12" />
+      </file>
+      <file name="$USER_HOME$/openag-device-software/connect/connect_manager.py" timestamp="1533497770561">
+        <mark key="'" line="92" column="8" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="108" column="56" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/jbrain/run.sh" timestamp="1533310118970">
+        <mark key="'" line="67" column="15" />
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="90" />
+        <mark key="^" line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/python/base64_encode.py" timestamp="1533316489207">
+        <mark key="'" line="46" column="45" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="38" column="60" />
+      </file>
+      <file name="$USER_HOME$/openag-device-software/app/models.py" timestamp="1533496104859">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/jbrain/device/managers/device.py" timestamp="1533306161221">
         <mark key="a" line="277" column="22" />
@@ -66,59 +145,30 @@
         <mark key="^" line="76" column="7" />
         <mark key="." line="76" column="7" />
       </file>
-      <file name="$USER_HOME$/src/python/py_types.py" timestamp="1532973970795">
-        <mark key="[" line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/jbrain/iot/iot_pubsub.py" timestamp="1533304832903">
-        <mark key="'" line="333" column="8" />
-        <mark key="^" line="94" column="31" />
-      </file>
-      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/utils/database.py" timestamp="1532972690841">
-        <mark key="'" line="27" column="54" />
-      </file>
-      <file name="$USER_HOME$/jbrain/device/managers/recipe.py" timestamp="1533236171253">
-        <mark key="a" line="245" column="12" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="249" column="74" />
-      </file>
-      <file name="$USER_HOME$/src/python/types.py" timestamp="1532973618613">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-      </file>
       <file name="$USER_HOME$/jbrain/about_template.json" timestamp="1533307976743">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/about.json" timestamp="1533307966059">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/openag-device-software/app/serializers.py" timestamp="1533495872333">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533305540790">
-        <mark key="'" line="292" column="22" />
+      <file name="$USER_HOME$/openag-device-software/app/admin.py" timestamp="1533496192279">
+        <mark key="'" line="26" column="9" />
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="$USER_HOME$/jbrain/app/templates/dashboard.html" timestamp="1533236080244">
         <mark key="'" line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/jbrain/resource/resource_manager.py" timestamp="1533229144139">
-        <mark key="a" line="226" column="19" />
-        <mark key="'" line="77" column="35" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="229" column="72" />
-        <mark key="." line="173" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="40" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="205" column="46" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="211" column="18" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="196" column="31" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="197" column="31" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="198" column="31" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="199" column="34" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
       <jump line="200" column="35" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
       <jump line="201" column="39" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
       <jump line="20" column="9" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
@@ -212,60 +262,68 @@
       <jump line="7" column="7" filename="$USER_HOME$/src/python/base64_encode.py" />
       <jump line="47" column="45" filename="$USER_HOME$/src/python/base64_encode.py" />
       <jump line="6" column="0" filename="$USER_HOME$/src/python/base64_decode.py" />
+      <jump line="118" column="8" filename="$USER_HOME$/openag-device-software/iot/iot_manager.py" />
+      <jump line="53" column="13" filename="$USER_HOME$/openag-device-software/iot/iot_manager.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/openag-device-software/iot/iot_manager.py" />
+      <jump line="229" column="0" filename="$USER_HOME$/openag-device-software/connect/connect_manager.py" />
+      <jump line="213" column="8" filename="$USER_HOME$/openag-device-software/connect/connect_manager.py" />
+      <jump line="191" column="0" filename="$USER_HOME$/openag-device-software/connect/connect_manager.py" />
+      <jump line="92" column="8" filename="$USER_HOME$/openag-device-software/connect/connect_manager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.encode('utf-8')).decode())</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>.encode('utf-8')).decode())</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeXNcPg==</text>
+        <text encoding="base64">XDx2YWxpZF9pbnRlcm5ldF9jb25uZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4aXQgMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXZhaWxhYmxlX2Rpc2tfc3BhY2UK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygicGFja2VkOiB7fSIuZm9ybWF0KHBhY2tlZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXZhaWxhYmxlX2Rpc2tfc3BhY2UgPSBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhY2tlZCA9IHN0cnVjdC5wYWNrKCJzIiwgY29udGVudHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2luZy5pbmZvKCAnQmFzZTY0IGZpbGUgY29udGVudHM6IHt9Jy5mb3JtYXQoIGI2NF9zdHJpbmcgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2YWlsYWJsZV9kaXNrX3NwYWNlICs9ICJHIiAgIyBmb3IgT1NYLCBhZGQgb24gJ0cnIGxpa2UgTGludXgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGI2NF9zdHJpbmcgPSBieXRlX3N0cmluZy5kZWNvZGUoInV0Zi04IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc3lzLnBsYXRmb3JtID09ICJkYXJ3aW4iOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzeXNcPg==</last-search>
+      <last-search encoding="base64">XDx2YWxpZF9pbnRlcm5ldF9jb25uZWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZF9pbnRlcm5ldF9jb25uZWN0aW9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry encoding="base64">XDxzYXZlX2RhdGFfdG9fRGV2aWNlXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNfcHVibGlzaF9mcmVxdWVuY3lfc2Vjb25kc1w+</entry>
         <entry encoding="base64">XDxzdGF0dXNfcHVibGlzaF9mcmVxX3NlY29uZHNcPg==</entry>
         <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
@@ -275,23 +333,22 @@
         <entry>status</entry>
         <entry>debugerob</entry>
         <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
-        <entry>Elaps</entry>
-        <entry encoding="base64">XDx0aW1lX2VsYXBzZWRfc3RyaW5nXD4=</entry>
-        <entry encoding="base64">XDxjdXJyZW50X3JlY2lwZVw+</entry>
-        <entry>time_elapsed_string</entry>
-        <entry encoding="base64">XDxkZXZpY2VfaWRcPg==</entry>
-        <entry encoding="base64">XDxkZXZpY2VJZFw+</entry>
-        <entry>lastConfigVer</entry>
-        <entry>debugrob</entry>
-        <entry encoding="base64">XDxhYm91dFw+</entry>
         <entry>state</entry>
-        <entry encoding="base64">XDxzeXNcPg==</entry>
+        <entry>debugrob</entry>
+        <entry encoding="base64">XDxSZXNvdXJjZU1hbmFnZXJcPg==</entry>
+        <entry>resour</entry>
+        <entry>resource</entry>
+        <entry encoding="base64">XDxyZWZfZGV2aWNlX21hbmFnZXJcPg==</entry>
+        <entry>resource\c</entry>
+        <entry encoding="base64">XDxyZWZfaW90X21hbmFnZXJcPg==</entry>
+        <entry>reset</entry>
+        <entry encoding="base64">XDx2YWxpZF9pbnRlcm5ldF9jb25uZWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>bd</entry>
         <entry>wq</entry>
-        <entry>w</entry>
+        <entry>bd</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -308,6 +365,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
