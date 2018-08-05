@@ -1,6 +1,25 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="Debug" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
   <action id="Macro.find debugrob">
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="VimCopyYankLine">
+    <keyboard-shortcut first-keystroke="shift y" />
   </action>
 </keymap>
