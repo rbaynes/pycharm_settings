@@ -86,22 +86,12 @@
         <mark key="^" line="287" column="10" />
         <mark key="." line="288" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/types.py" timestamp="1532973618613">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-      </file>
       <file name="$USER_HOME$/openag-device-software/iot/iot_manager.py" timestamp="1533497574295">
         <mark key="'" line="56" column="8" />
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
         <mark key="^" line="137" column="34" />
-      </file>
-      <file name="$USER_HOME$/jbrain/about.json" timestamp="1533307966059">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/openag-device-software/app/urls.py" timestamp="1533563141947">
         <mark key="'" line="83" column="56" />
@@ -145,11 +135,6 @@
         <mark key="." line="78" column="13" />
         <mark key="^" line="78" column="13" />
       </file>
-      <file name="$USER_HOME$/jbrain/about_template.json" timestamp="1533307976743">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/openag-device-software/app/serializers.py" timestamp="1533495872333">
         <mark key="'" line="27" column="13" />
         <mark key="[" line="28" column="13" />
@@ -164,12 +149,12 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
+      <file name="$USER_HOME$/openag-device-software/app/templates/peripherals.html" timestamp="1533570086096">
+        <mark key="a" line="234" column="4" />
+        <mark key="'" line="582" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="22" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="663" column="57" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="265" column="16" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="267" column="36" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="269" column="41" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="275" column="22" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="312" column="55" filename="$USER_HOME$/jbrain/device/managers/device.py" />
@@ -266,6 +251,10 @@
       <jump line="84" column="20" filename="$USER_HOME$/openag-device-software/app/templates/logs.html" />
       <jump line="30" column="34" filename="$USER_HOME$/openag-device-software/app/templates/logs.html" />
       <jump line="32" column="9" filename="$USER_HOME$/openag-device-software/app/templates/logs.html" />
+      <jump line="264" column="105" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="234" column="29" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="235" column="19" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="582" column="12" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -275,7 +264,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNwbGF5TG9nXD4=</text>
+        <text encoding="base64">XDxwZXJpcGhlcmFsc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FyZCIgaWQ9ImxvZy1jYXJkIj4K</text>
@@ -312,16 +301,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNwbGF5TG9nXD4=</last-search>
+      <last-search encoding="base64">XDxwZXJpcGhlcmFsc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNwbGF5TG9nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwZXJpcGhlcmFsc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>debugerob</entry>
-        <entry>state</entry>
         <entry>debugrob</entry>
         <entry encoding="base64">XDxSZXNvdXJjZU1hbmFnZXJcPg==</entry>
         <entry>resour</entry>
@@ -340,6 +327,8 @@
         <entry encoding="base64">XDxzZWxlY3RwaWNrZXJcPg==</entry>
         <entry encoding="base64">XDxsb2dTZWxlY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxkaXNwbGF5TG9nXD4=</entry>
+        <entry encoding="base64">XDxidXR0b25cPg==</entry>
+        <entry encoding="base64">XDxwZXJpcGhlcmFsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
