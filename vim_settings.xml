@@ -31,12 +31,6 @@
         <mark key="." line="38" column="44" />
         <mark key="^" line="38" column="44" />
       </file>
-      <file name="$USER_HOME$/src/python/get_IP_address.py" timestamp="1533222259655">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-      </file>
       <file name="$USER_HOME$/openag-device-software/app/common.py" timestamp="1533563329523">
         <mark key="a" line="99" column="0" />
         <mark key="'" line="99" column="12" />
@@ -73,11 +67,13 @@
         <mark key="^" line="60" column="30" />
         <mark key="." line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/openag-device-software/app/templates/connect.html" timestamp="1533583001710">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/openag-device-software/app/templates/connect.html" timestamp="1533586217066">
+        <mark key="a" line="102" column="31" />
+        <mark key="'" line="52" column="35" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="62" />
+        <mark key="." line="5" column="62" />
+        <mark key="^" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/openag-device-software/app/viewers.py" timestamp="1533563207475">
         <mark key="a" line="279" column="7" />
@@ -150,30 +146,15 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/openag-device-software/app/templates/peripherals.html" timestamp="1533582834303">
-        <mark key="a" line="234" column="4" />
-        <mark key="'" line="334" column="0" />
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="334" column="141" />
+      <file name="$USER_HOME$/openag-device-software/app/templates/peripherals.html" timestamp="1533586076144">
+        <mark key="a" line="447" column="41" />
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="447" column="0" />
+        <mark key="]" line="503" column="9" />
+        <mark key="." line="334" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="668" column="48" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="669" column="48" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="670" column="53" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="671" column="60" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="674" column="55" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="675" column="48" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="677" column="27" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="678" column="53" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="15" column="12" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="44" column="23" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="55" column="16" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="57" column="32" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="58" column="57" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="61" column="15" filename="$USER_HOME$/jbrain/run.sh" />
-      <jump line="48" column="0" filename="$USER_HOME$/src/python/base64_encode.py" />
       <jump line="7" column="7" filename="$USER_HOME$/src/python/base64_encode.py" />
       <jump line="47" column="45" filename="$USER_HOME$/src/python/base64_encode.py" />
       <jump line="6" column="0" filename="$USER_HOME$/src/python/base64_decode.py" />
@@ -228,26 +209,17 @@
       <jump line="403" column="190" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="407" column="135" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="417" column="29" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
-      <jump line="420" column="144" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="472" column="23" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="481" column="23" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="546" column="17" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="570" column="17" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="269" column="0" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
-      <jump line="261" column="105" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
-      <jump line="264" column="105" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
-      <jump line="267" column="102" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
-      <jump line="270" column="104" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
-      <jump line="273" column="108" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
-      <jump line="295" column="80" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
-      <jump line="319" column="80" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="324" column="30" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="332" column="24" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="314" column="0" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="333" column="12" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="336" column="61" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="353" column="18" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
-      <jump line="334" column="0" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
       <jump line="47" column="0" filename="$USER_HOME$/openag-device-software/app/templates/logs.html" />
       <jump line="15" column="0" filename="$USER_HOME$/openag-device-software/app/templates/logs.html" />
       <jump line="41" column="6" filename="$USER_HOME$/openag-device-software/app/templates/logs.html" />
@@ -258,19 +230,44 @@
       <jump line="54" column="55" filename="$USER_HOME$/openag-device-software/app/templates/logs.html" />
       <jump line="5" column="0" filename="$USER_HOME$/openag-device-software/app/templates/logs.html" />
       <jump line="96" column="0" filename="$USER_HOME$/openag-device-software/app/templates/logs.html" />
+      <jump line="358" column="81" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="420" column="93" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="261" column="68" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="264" column="68" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="267" column="65" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="270" column="67" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="273" column="71" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="295" column="43" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="319" column="43" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="17" column="48" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
+      <jump line="334" column="97" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="520" column="11" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="554" column="4" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="15" column="4" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="68" column="8" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="100" column="8" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="129" column="0" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="485" column="7" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="456" column="7" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="48" column="8" filename="$USER_HOME$/openag-device-software/app/templates/peripherals.html" />
+      <jump line="76" column="55" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
+      <jump line="4" column="20" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
+      <jump line="31" column="34" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
+      <jump line="43" column="35" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
+      <jump line="51" column="35" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+CnslIGVuZGJsb2NrICV9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>event_id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>event_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dFbnRyaWVzXD4=</text>
+        <text encoding="base64">XDxldmVudF9pZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+CnslIGVuZGJsb2NrICV9Cg==</text>
+        <text encoding="base64">ICAgICAvLyBDcmVhdGUgcmVjaXBpZW50IGFuZCByZXF1ZXN0IGRpY3RzCiAgICAgcmVjaXBpZW50ID0gIHsKICAgICAgICAgInR5cGUiOiAiUGVyaXBoZXJhbCIsCiAgICAgICAgICJuYW1lIjogcmVjaXBpZW50fTsKICAgICByZXF1ZXN0ID0gewogICAgICAgICAidHlwZSI6IGV2ZW50X25hbWUsCiAgICAgICAgICJ2YWx1ZSI6IHZhbHVlfTsKCiAgICAgLy8gU2VuZCBjcmVhdGUgZXZlbnQgcmVxdWVzdCB0byBlbmRwb2ludAogICAgICQuYWpheCh7CiAgICAgICAgIHVybDogIi9hcGkvZXZlbnQvIiwKICAgICAgICAgdHlwZTogIlBPU1QiLAogICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgImNzcmZtaWRkbGV3YXJldG9rZW4iOiAie3sgY3NyZl90b2tlbiB9fSIsCiAgICAgICAgICAgInJlY2lwaWVudCI6IEpTT04uc3RyaW5naWZ5KHJlY2lwaWVudCksCiAgICAgICAgICAgInJlcXVlc3QiOiBKU09OLnN0cmluZ2lmeShyZXF1ZXN0KQogICAgICAgICB9LAogICAgICAgICBkYXRhVHlwZTogJ2pzb24nLAogICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbihkYXRhKSB7CiAgICAgICAgICBjb25zb2xlLmxvZygiRXZlbnQgcmVxdWVzdCBzdWNjZWVkZWQiKQoKICAgICAgICAgIC8vIEdldCByZXNwb25zZSBtZXNzYWdlCiAgICAgICAgICBtZXNzYWdlID0gZGF0YS5tZXNzYWdlCiAgICAgICAgICBjb25zb2xlLmxvZygiQWxlcnQgbWVzc2FnZTogIiArIG1lc3NhZ2UpCiAgICAgICAgICAgCiAgICAgICAgICAvLyBTZXQgYWxlcnQgbWVzc2FnZQogICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoZXZlbnRfaWQgKyAiU3VjY2Vzc0FsZXJ0TWVzc2FnZSIpLmlubmVySFRNTCA9IG1lc3NhZ2U7CgogICAgICAgICAgLy8gSGlkZSBlcnJvciBhbGVydAogICAgICAgICAgJChiYXNlX25hbWUgKyAiRXJyb3JBbGVydCIpLmNvbGxhcHNlKCJoaWRlIik7CgogICAgICAgICAgLy8gU2hvdyBhbGVydAogICAgICAgICAgJChiYXNlX25hbWUgKyAiU3VjY2Vzc0FsZXJ0IikuY29sbGFwc2UoInNob3ciKTsKCiAgICAgICAgICAvLyBTaG93IG5leHQgYnV0dG9uCiAgICAgICAgICAkKGJhc2VfbmFtZSArICJOZXh0QnV0dG9uIikuY29sbGFwc2UoInNob3ciKTsKICAgICAgICB9LAogICAgICAgIGVycm9yOiBmdW5jdGlvbihkYXRhKSB7CiAgICAgICAgICAgY29uc29sZS5sb2coIkV2ZW50IHJlcXVlc3QgZmFpbGVkIikKCiAgICAgICAgICAgLy8gR2V0IHJlc3BvbnNlIG1lc3NhZ2UKICAgICAgICAgICByZXNwb25zZV9kaWN0ID0gSlNPTi5wYXJzZShkYXRhLnJlc3BvbnNlVGV4dCkKICAgICAgICAgICBtZXNzYWdlID0gcmVzcG9uc2VfZGljdFsibWVzc2FnZSJdCiAgICAgICAgICAgY29uc29sZS5sb2coIkFsZXJ0IG1lc3NhZ2U6ICIgKyBtZXNzYWdlKQogICAgICAgCiAgICAgICAgICAgLy8gU2V0IGFsZXJ0IG1lc3NhZ2UKICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChldmVudF9pZCArICJFcnJvckFsZXJ0TWVzc2FnZSIpLmlubmVySFRNTCA9IG1lc3NhZ2U7CgogICAgICAgICAgIC8vIEhpZGUgc3VjY2VzcyBhbGVydAogICAgICAgICAgICQoYmFzZV9uYW1lICsgIlN1Y2Nlc3NBbGVydCIpLmNvbGxhcHNlKCJoaWRlIik7CgogICAgICAgICAgIC8vIFNob3cgYWxlcnQKICAgICAgICAgICAkKGJhc2VfbmFtZSArICdFcnJvckFsZXJ0JykuY29sbGFwc2UoJ3Nob3cnKTsKICAgICAgICAgfSwKICAgICAgICAgY29tcGxldGU6IGZ1bmN0aW9uKGRhdGEpIHsKICAgICAgICAgfQogICAgIH0pOyAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZCIgaWQ9ImxvZy1jYXJkIj4K</text>
@@ -304,20 +301,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dFbnRyaWVzXD4=</last-search>
+      <last-search encoding="base64">XDxldmVudF9pZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dFbnRyaWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudF9pZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZfZGV2aWNlX21hbmFnZXJcPg==</entry>
-        <entry encoding="base64">XDxyZWZfaW90X21hbmFnZXJcPg==</entry>
-        <entry>reset</entry>
-        <entry encoding="base64">XDx2YWxpZF9pbnRlcm5ldF9jb25uZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
-        <entry encoding="base64">XDxpb3RcPg==</entry>
         <entry>resource\c</entry>
         <entry encoding="base64">XDxSZXNvdXJjZVZpZXdlclw+</entry>
         <entry>resource_dict</entry>
@@ -332,6 +323,12 @@
         <entry>button</entry>
         <entry encoding="base64">XDxsb2dzX2pzb25cPg==</entry>
         <entry encoding="base64">XDxsb2dFbnRyaWVzXD4=</entry>
+        <entry>data-tog</entry>
+        <entry encoding="base64">XDxleHBhbmRcPg==</entry>
+        <entry encoding="base64">XDxsb2FkUGVyaXBoZXJhbFNldHVwc1w+</entry>
+        <entry encoding="base64">XDxhamF4XD4=</entry>
+        <entry encoding="base64">XDxzaG93RXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxldmVudF9pZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
