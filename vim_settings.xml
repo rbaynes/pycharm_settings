@@ -67,9 +67,9 @@
         <mark key="^" line="60" column="30" />
         <mark key="." line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/openag-device-software/app/templates/connect.html" timestamp="1533587570834">
+      <file name="$USER_HOME$/openag-device-software/app/templates/connect.html" timestamp="1533588536093">
         <mark key="a" line="102" column="31" />
-        <mark key="'" line="4" column="11" />
+        <mark key="'" line="95" column="57" />
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="62" />
         <mark key="." line="5" column="62" />
@@ -90,11 +90,11 @@
         <mark key="." line="152" column="0" />
         <mark key="^" line="137" column="34" />
       </file>
-      <file name="$USER_HOME$/openag-device-software/app/urls.py" timestamp="1533563141947">
-        <mark key="'" line="83" column="56" />
-        <mark key="[" line="84" column="29" />
-        <mark key="]" line="84" column="35" />
-        <mark key="." line="84" column="35" />
+      <file name="$USER_HOME$/openag-device-software/app/urls.py" timestamp="1533588709691">
+        <mark key="'" line="30" column="57" />
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
         <mark key="^" line="84" column="35" />
       </file>
       <file name="$USER_HOME$/openag-device-software/connect/connect_manager.py" timestamp="1533563910764">
@@ -155,9 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="7" filename="$USER_HOME$/src/python/base64_encode.py" />
-      <jump line="47" column="45" filename="$USER_HOME$/src/python/base64_encode.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/src/python/base64_decode.py" />
       <jump line="118" column="8" filename="$USER_HOME$/openag-device-software/iot/iot_manager.py" />
       <jump line="53" column="13" filename="$USER_HOME$/openag-device-software/iot/iot_manager.py" />
       <jump line="56" column="8" filename="$USER_HOME$/openag-device-software/iot/iot_manager.py" />
@@ -255,6 +252,9 @@
       <jump line="43" column="35" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
       <jump line="51" column="35" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
       <jump line="4" column="11" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
+      <jump line="95" column="57" filename="$USER_HOME$/openag-device-software/app/templates/connect.html" />
+      <jump line="84" column="20" filename="$USER_HOME$/openag-device-software/app/urls.py" />
+      <jump line="30" column="57" filename="$USER_HOME$/openag-device-software/app/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,7 +264,7 @@
         <text>event_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRXaWZpc1w+</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAvLyBDcmVhdGUgcmVjaXBpZW50IGFuZCByZXF1ZXN0IGRpY3RzCiAgICAgcmVjaXBpZW50ID0gIHsKICAgICAgICAgInR5cGUiOiAiUGVyaXBoZXJhbCIsCiAgICAgICAgICJuYW1lIjogcmVjaXBpZW50fTsKICAgICByZXF1ZXN0ID0gewogICAgICAgICAidHlwZSI6IGV2ZW50X25hbWUsCiAgICAgICAgICJ2YWx1ZSI6IHZhbHVlfTsKCiAgICAgLy8gU2VuZCBjcmVhdGUgZXZlbnQgcmVxdWVzdCB0byBlbmRwb2ludAogICAgICQuYWpheCh7CiAgICAgICAgIHVybDogIi9hcGkvZXZlbnQvIiwKICAgICAgICAgdHlwZTogIlBPU1QiLAogICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgImNzcmZtaWRkbGV3YXJldG9rZW4iOiAie3sgY3NyZl90b2tlbiB9fSIsCiAgICAgICAgICAgInJlY2lwaWVudCI6IEpTT04uc3RyaW5naWZ5KHJlY2lwaWVudCksCiAgICAgICAgICAgInJlcXVlc3QiOiBKU09OLnN0cmluZ2lmeShyZXF1ZXN0KQogICAgICAgICB9LAogICAgICAgICBkYXRhVHlwZTogJ2pzb24nLAogICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbihkYXRhKSB7CiAgICAgICAgICBjb25zb2xlLmxvZygiRXZlbnQgcmVxdWVzdCBzdWNjZWVkZWQiKQoKICAgICAgICAgIC8vIEdldCByZXNwb25zZSBtZXNzYWdlCiAgICAgICAgICBtZXNzYWdlID0gZGF0YS5tZXNzYWdlCiAgICAgICAgICBjb25zb2xlLmxvZygiQWxlcnQgbWVzc2FnZTogIiArIG1lc3NhZ2UpCiAgICAgICAgICAgCiAgICAgICAgICAvLyBTZXQgYWxlcnQgbWVzc2FnZQogICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoZXZlbnRfaWQgKyAiU3VjY2Vzc0FsZXJ0TWVzc2FnZSIpLmlubmVySFRNTCA9IG1lc3NhZ2U7CgogICAgICAgICAgLy8gSGlkZSBlcnJvciBhbGVydAogICAgICAgICAgJChiYXNlX25hbWUgKyAiRXJyb3JBbGVydCIpLmNvbGxhcHNlKCJoaWRlIik7CgogICAgICAgICAgLy8gU2hvdyBhbGVydAogICAgICAgICAgJChiYXNlX25hbWUgKyAiU3VjY2Vzc0FsZXJ0IikuY29sbGFwc2UoInNob3ciKTsKCiAgICAgICAgICAvLyBTaG93IG5leHQgYnV0dG9uCiAgICAgICAgICAkKGJhc2VfbmFtZSArICJOZXh0QnV0dG9uIikuY29sbGFwc2UoInNob3ciKTsKICAgICAgICB9LAogICAgICAgIGVycm9yOiBmdW5jdGlvbihkYXRhKSB7CiAgICAgICAgICAgY29uc29sZS5sb2coIkV2ZW50IHJlcXVlc3QgZmFpbGVkIikKCiAgICAgICAgICAgLy8gR2V0IHJlc3BvbnNlIG1lc3NhZ2UKICAgICAgICAgICByZXNwb25zZV9kaWN0ID0gSlNPTi5wYXJzZShkYXRhLnJlc3BvbnNlVGV4dCkKICAgICAgICAgICBtZXNzYWdlID0gcmVzcG9uc2VfZGljdFsibWVzc2FnZSJdCiAgICAgICAgICAgY29uc29sZS5sb2coIkFsZXJ0IG1lc3NhZ2U6ICIgKyBtZXNzYWdlKQogICAgICAgCiAgICAgICAgICAgLy8gU2V0IGFsZXJ0IG1lc3NhZ2UKICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChldmVudF9pZCArICJFcnJvckFsZXJ0TWVzc2FnZSIpLmlubmVySFRNTCA9IG1lc3NhZ2U7CgogICAgICAgICAgIC8vIEhpZGUgc3VjY2VzcyBhbGVydAogICAgICAgICAgICQoYmFzZV9uYW1lICsgIlN1Y2Nlc3NBbGVydCIpLmNvbGxhcHNlKCJoaWRlIik7CgogICAgICAgICAgIC8vIFNob3cgYWxlcnQKICAgICAgICAgICAkKGJhc2VfbmFtZSArICdFcnJvckFsZXJ0JykuY29sbGFwc2UoJ3Nob3cnKTsKICAgICAgICAgfSwKICAgICAgICAgY29tcGxldGU6IGZ1bmN0aW9uKGRhdGEpIHsKICAgICAgICAgfQogICAgIH0pOyAK</text>
@@ -301,16 +301,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRXaWZpc1w+</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRXaWZpc1w+</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXNvdXJjZVZpZXdlclw+</entry>
-        <entry>resource_dict</entry>
         <entry>init</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxzZWxlY3RwaWNrZXJcPg==</entry>
@@ -329,6 +327,8 @@
         <entry encoding="base64">XDxzaG93RXZlbnRcPg==</entry>
         <entry encoding="base64">XDxldmVudF9pZFw+</entry>
         <entry encoding="base64">XDxnZXRXaWZpc1w+</entry>
+        <entry>debugrob</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
