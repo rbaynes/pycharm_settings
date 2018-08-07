@@ -47,6 +47,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="38" column="60" />
       </file>
+      <file name="$USER_HOME$/jbrain/connect/connect_manager.py" timestamp="1533649564393">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="62" column="6" />
+        <mark key="]" line="62" column="6" />
+        <mark key="." line="62" column="6" />
+      </file>
       <file name="$USER_HOME$/src/python/test.py" timestamp="1532975862122">
         <mark key="'" line="51" column="26" />
         <mark key="[" line="46" column="0" />
@@ -112,20 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="40" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="205" column="46" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="211" column="18" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="196" column="31" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="197" column="31" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="198" column="31" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="199" column="34" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="200" column="35" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="201" column="39" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="20" column="9" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/jbrain/device/managers/recipe.py" />
-      <jump line="228" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="261" column="1" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="215" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="259" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
       <jump line="406" column="15" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
       <jump line="97" column="33" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
@@ -212,63 +204,74 @@
       <jump line="7" column="7" filename="$USER_HOME$/src/python/base64_encode.py" />
       <jump line="47" column="45" filename="$USER_HOME$/src/python/base64_encode.py" />
       <jump line="6" column="0" filename="$USER_HOME$/src/python/base64_decode.py" />
+      <jump line="217" column="17" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="246" column="22" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="209" column="11" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="83" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="87" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="92" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="102" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="71" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.encode('utf-8')).decode())</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>.encode('utf-8')).decode())</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeXNcPg==</text>
+        <text># ----</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4aXQgMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygicGFja2VkOiB7fSIuZm9ybWF0KHBhY2tlZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhY2tlZCA9IHN0cnVjdC5wYWNrKCJzIiwgY29udGVudHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHJlc1swXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2luZy5pbmZvKCAnQmFzZTY0IGZpbGUgY29udGVudHM6IHt9Jy5mb3JtYXQoIGI2NF9zdHJpbmcgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcyA9IGN1cnNvci5mZXRjaG9uZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGI2NF9zdHJpbmcgPSBieXRlX3N0cmluZy5kZWNvZGUoInV0Zi04IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKHNxbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjb25uZWN0aW9uLmN1cnNvcigpIGFzIGN1cnNvcjoK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzeXNcPg==</last-search>
+      <last-search># ----</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeXNcPg==</last-pattern>
+      <last-pattern># ----</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0dXNfcHVibGlzaF9mcmVxdWVuY3lfc2Vjb25kc1w+</entry>
-        <entry encoding="base64">XDxzdGF0dXNfcHVibGlzaF9mcmVxX3NlY29uZHNcPg==</entry>
-        <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
         <entry encoding="base64">XDxnbXRpbWVcPg==</entry>
         <entry encoding="base64">XDxjbGVhbl91cF9kaXNrXD4=</entry>
         <entry>priv</entry>
@@ -286,12 +289,15 @@
         <entry encoding="base64">XDxhYm91dFw+</entry>
         <entry>state</entry>
         <entry encoding="base64">XDxzeXNcPg==</entry>
+        <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
+        <entry>-----</entry>
+        <entry># ----</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
