@@ -103,8 +103,14 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533305540790">
-        <mark key="'" line="292" column="22" />
+      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533651764078">
+        <mark key="a" line="304" column="8" />
+        <mark key="b" line="453" column="0" />
+        <mark key="'" line="453" column="0" />
+        <mark key="[" line="452" column="0" />
+        <mark key="]" line="453" column="60" />
+        <mark key="^" line="453" column="60" />
+        <mark key="." line="453" column="60" />
       </file>
       <file name="$USER_HOME$/jbrain/app/templates/dashboard.html" timestamp="1533236080244">
         <mark key="'" line="20" column="9" />
@@ -118,9 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="0" filename="$USER_HOME$/jbrain/iot/iot_manager.py" />
-      <jump line="406" column="15" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
-      <jump line="97" column="33" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
       <jump line="396" column="8" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
       <jump line="439" column="17" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
       <jump line="440" column="20" filename="$USER_HOME$/jbrain/iot/iot_pubsub.py" />
@@ -218,6 +221,9 @@
       <jump line="49" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="62" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="71" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="387" column="31" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="304" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="453" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -227,7 +233,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text># ----</text>
+        <text>logs.html</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4aXQgMAo=</text>
@@ -264,15 +270,14 @@
       </register>
     </registers>
     <search>
-      <last-search># ----</last-search>
+      <last-search>logs.html</last-search>
       <last-offset />
-      <last-pattern># ----</last-pattern>
+      <last-pattern>logs.html</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnbXRpbWVcPg==</entry>
         <entry encoding="base64">XDxjbGVhbl91cF9kaXNrXD4=</entry>
         <entry>priv</entry>
         <entry>status</entry>
@@ -292,6 +297,7 @@
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry>-----</entry>
         <entry># ----</entry>
+        <entry>logs.html</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
