@@ -21,11 +21,13 @@
         <mark key="." line="38" column="44" />
         <mark key="^" line="38" column="44" />
       </file>
-      <file name="$USER_HOME$/src/python/get_IP_address.py" timestamp="1533222259655">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="24" />
+      <file name="$USER_HOME$/jbrain/app/serializers.py" timestamp="1533671047615">
+        <mark key="a" line="51" column="6" />
+        <mark key="'" line="96" column="18" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/jbrain/connect/connect_manager.py" timestamp="1533649564393">
         <mark key="'" line="71" column="4" />
@@ -62,14 +64,14 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533668049026">
-        <mark key="a" line="200" column="6" />
-        <mark key="b" line="461" column="3" />
-        <mark key="'" line="454" column="1" />
-        <mark key="[" line="470" column="0" />
-        <mark key="]" line="470" column="0" />
-        <mark key="." line="470" column="0" />
-        <mark key="^" line="470" column="0" />
+      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533671131188">
+        <mark key="a" line="468" column="0" />
+        <mark key="b" line="462" column="3" />
+        <mark key="'" line="48" column="28" />
+        <mark key="[" line="478" column="12" />
+        <mark key="]" line="478" column="20" />
+        <mark key="." line="478" column="20" />
+        <mark key="^" line="478" column="20" />
       </file>
       <file name="$USER_HOME$/jbrain/app/templates/connect.html" timestamp="1533668661092">
         <mark key="'" line="41" column="7" />
@@ -78,19 +80,27 @@
         <mark key="^" line="4" column="77" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/viewers.py" timestamp="1533668073016">
+      <file name="$USER_HOME$/jbrain/app/viewers.py" timestamp="1533671542167">
         <mark key="a" line="53" column="8" />
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="289" column="37" />
-        <mark key="]" line="289" column="37" />
-        <mark key="^" line="306" column="22" />
-        <mark key="." line="289" column="37" />
+        <mark key="[" line="308" column="15" />
+        <mark key="]" line="308" column="49" />
+        <mark key="^" line="308" column="49" />
+        <mark key="." line="308" column="49" />
       </file>
       <file name="$USER_HOME$/openag-cloud-v1/MqttToBigQuery-AppEngineFlexVM/utils.py" timestamp="1533047905782">
         <mark key="'" line="394" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1533226553990">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jbrain/app/models.py" timestamp="1533671026867">
+        <mark key="a" line="64" column="0" />
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="191" column="38" />
+        <mark key="]" line="191" column="38" />
+        <mark key="^" line="190" column="30" />
+        <mark key="." line="191" column="38" />
       </file>
       <file name="$USER_HOME$/jbrain/run.sh" timestamp="1533310118970">
         <mark key="'" line="67" column="15" />
@@ -106,7 +116,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="38" column="60" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/urls.py" timestamp="1533667954104">
+      <file name="$USER_HOME$/jbrain/app/urls.py" timestamp="1533671606923">
         <mark key="a" line="49" column="18" />
         <mark key="'" line="66" column="13" />
         <mark key="[" line="54" column="38" />
@@ -153,16 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="17" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="246" column="22" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="209" column="11" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="83" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="92" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="102" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="24" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="36" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="49" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="62" column="4" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
@@ -199,7 +199,6 @@
       <jump line="168" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="178" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="188" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="198" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="69" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="79" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="105" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
@@ -243,7 +242,6 @@
       <jump line="0" column="4" filename="$USER_HOME$/jbrain/app/templates/peripherals.html" />
       <jump line="5" column="2" filename="$USER_HOME$/jbrain/app/templates/peripherals.html" />
       <jump line="15" column="4" filename="$USER_HOME$/jbrain/app/templates/peripherals.html" />
-      <jump line="467" column="57" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="355" column="44" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="196" column="44" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="343" column="32" filename="$USER_HOME$/jbrain/app/views.py" />
@@ -253,46 +251,58 @@
       <jump line="347" column="59" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="200" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="454" column="1" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="458" column="12" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="464" column="35" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="481" column="35" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="198" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/jbrain/app/serializers.py" />
+      <jump line="183" column="8" filename="$USER_HOME$/jbrain/app/models.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/jbrain/app/models.py" />
+      <jump line="95" column="18" filename="$USER_HOME$/jbrain/app/serializers.py" />
+      <jump line="467" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="539" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="48" column="28" filename="$USER_HOME$/jbrain/app/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+      <register name="&quot;" type="4">
+        <text>response</text>
       </register>
       <register name="-" type="4">
-        <text>peripheralSetups</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text>debugrob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VyaWFsaXplcl9jbGFzcyA9IFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uX3ZpZXdlci5nZXRfd2lmaXMocmVxdWVzdC5kYXRhLmRpY3QoKSkK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuVGV4dEZpZWxkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IFBlcmlwaGVyYWxTZXR1cE1vZGVsLm9iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">ICAgIHV1aWQgPSBtb2RlbHMuVVVJREZpZWxkKHByaW1hcnlfa2V5PVRydWUsIHVuaXF1ZT1UcnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBsb2FkUGVyaXBoZXJhbFNldHVwcygpIHsK</text>
+        <text encoding="base64">ICAgICAgICBjb25uX3ZpZXdlci5nZXRfd2lmaXMocmVxdWVzdC5kYXRhLmRpY3QoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IFBlcmlwaGVyYWxTZXR1cE1vZGVsLm9iamVjdHMuYWxsKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBsb2FkUGVyaXBoZXJhbFNldHVwcygpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAvKmRlYnVncm9iLCBkbyBhamF4IFBPU1QgdG8gQVBJIHRoYXQgcmV0dXJucyBsaXN0IG9mIHdpZmlzCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -307,7 +317,6 @@
     </search>
     <history>
       <history-search>
-        <entry>state</entry>
         <entry encoding="base64">XDxzeXNcPg==</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry>-----</entry>
@@ -326,6 +335,7 @@
         <entry>setups</entry>
         <entry>PeripheralViewSe</entry>
         <entry>PeripheralSetupViewSet</entry>
+        <entry>ViewSet</entry>
         <entry>debugrob</entry>
       </history-search>
       <history-cmd>
