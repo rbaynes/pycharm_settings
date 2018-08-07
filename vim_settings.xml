@@ -106,17 +106,20 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533655094382">
-        <mark key="a" line="304" column="8" />
-        <mark key="b" line="453" column="0" />
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="452" column="0" />
-        <mark key="]" line="453" column="60" />
-        <mark key="^" line="453" column="60" />
-        <mark key="." line="453" column="60" />
+      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533656873340">
+        <mark key="a" line="112" column="0" />
+        <mark key="b" line="460" column="3" />
+        <mark key="'" line="484" column="8" />
+        <mark key="[" line="464" column="26" />
+        <mark key="]" line="464" column="56" />
+        <mark key="^" line="464" column="56" />
+        <mark key="." line="464" column="56" />
       </file>
       <file name="$USER_HOME$/jbrain/app/templates/dashboard.html" timestamp="1533236080244">
         <mark key="'" line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/jbrain/app/viewers.py" timestamp="1533656902422">
+        <mark key="'" line="125" column="12" />
       </file>
       <file name="$USER_HOME$/jbrain/resource/resource_manager.py" timestamp="1533229144139">
         <mark key="a" line="226" column="19" />
@@ -127,30 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="16" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="267" column="36" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="269" column="41" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="275" column="22" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="312" column="55" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="313" column="26" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="318" column="31" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="319" column="24" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="321" column="32" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="346" column="31" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="357" column="31" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="361" column="18" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="394" column="15" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="395" column="49" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="400" column="39" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="401" column="39" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="402" column="44" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="403" column="44" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="404" column="44" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="405" column="36" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="406" column="41" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="410" column="39" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="411" column="39" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="412" column="44" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="413" column="44" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="414" column="44" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="415" column="36" filename="$USER_HOME$/jbrain/device/managers/device.py" />
@@ -227,64 +206,84 @@
       <jump line="482" column="17" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="19" column="33" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="67" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="158" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="168" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="178" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="188" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="198" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="69" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="79" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="105" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="148" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="460" column="23" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="194" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="113" column="27" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="461" column="3" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="125" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="492" column="27" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="491" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="485" column="27" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="484" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/jbrain/app/viewers.py" />
+      <jump line="52" column="6" filename="$USER_HOME$/jbrain/app/viewers.py" />
+      <jump line="125" column="12" filename="$USER_HOME$/jbrain/app/viewers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>API</text>
+        <text>RecipeView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4aXQgMAo=</text>
+        <text encoding="base64">Y2xhc3MgUmVjaXBlVmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgogICAgIiIiIEFQSSBlbmRwb2ludCB0aGF0IGFsbG93cyByZWNpcGVzIHRvIGJlIHZpZXdlZC4gIiIiCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIiBkZWJ1Z3JvYiwgZnJvbSBSZWNpcGVWaWV3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0Cg==</text>
+        <text encoding="base64">OG96IGNoaWNrZW4sIHJpY2UsIHZlZ2dpZXMgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoZSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHJlc1swXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcyA9IGN1cnNvci5mZXRjaG9uZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnNvci5leGVjdXRlKHNxbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHJlc1swXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjb25uZWN0aW9uLmN1cnNvcigpIGFzIGN1cnNvcjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcyA9IGN1cnNvci5mZXRjaG9uZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>API</last-search>
+      <last-search>RecipeView</last-search>
       <last-offset />
-      <last-pattern>API</last-pattern>
+      <last-pattern>RecipeView</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>status</entry>
-        <entry>debugerob</entry>
-        <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
-        <entry>Elaps</entry>
         <entry encoding="base64">XDx0aW1lX2VsYXBzZWRfc3RyaW5nXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X3JlY2lwZVw+</entry>
         <entry>time_elapsed_string</entry>
@@ -301,6 +300,10 @@
         <entry>logs.html</entry>
         <entry>api</entry>
         <entry>API</entry>
+        <entry encoding="base64">XDxzZXJpYWxpemVyX2NsYXNzXD4=</entry>
+        <entry encoding="base64">XDxSZWNpcGVWaWV3XD4=</entry>
+        <entry encoding="base64">XDxyZWNpcGVfdmlld2VyXD4=</entry>
+        <entry>RecipeView</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
