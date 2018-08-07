@@ -47,8 +47,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="38" column="60" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/urls.py" timestamp="1533654830157">
-        <mark key="'" line="68" column="13" />
+      <file name="$USER_HOME$/jbrain/app/urls.py" timestamp="1533665605834">
+        <mark key="a" line="49" column="18" />
+        <mark key="'" line="66" column="13" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="20" />
+        <mark key="^" line="54" column="37" />
+        <mark key="." line="54" column="38" />
       </file>
       <file name="$USER_HOME$/jbrain/connect/connect_manager.py" timestamp="1533649564393">
         <mark key="'" line="71" column="4" />
@@ -106,20 +111,24 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533663717511">
-        <mark key="a" line="112" column="0" />
-        <mark key="b" line="460" column="3" />
-        <mark key="'" line="483" column="8" />
-        <mark key="[" line="462" column="3" />
-        <mark key="]" line="462" column="3" />
-        <mark key="^" line="462" column="2" />
-        <mark key="." line="462" column="3" />
+      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533666256043">
+        <mark key="a" line="491" column="1" />
+        <mark key="b" line="461" column="3" />
+        <mark key="[" line="454" column="11" />
+        <mark key="]" line="454" column="14" />
+        <mark key="." line="454" column="14" />
+        <mark key="^" line="454" column="14" />
       </file>
       <file name="$USER_HOME$/jbrain/app/templates/dashboard.html" timestamp="1533236080244">
         <mark key="'" line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/viewers.py" timestamp="1533660718175">
-        <mark key="'" line="83" column="12" />
+      <file name="$USER_HOME$/jbrain/app/viewers.py" timestamp="1533666150003">
+        <mark key="a" line="53" column="8" />
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="306" column="15" />
+        <mark key="]" line="306" column="15" />
+        <mark key="^" line="304" column="48" />
+        <mark key="." line="306" column="15" />
       </file>
       <file name="$USER_HOME$/jbrain/resource/resource_manager.py" timestamp="1533229144139">
         <mark key="a" line="226" column="19" />
@@ -130,8 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="653" column="21" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="655" column="40" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="658" column="15" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="660" column="22" filename="$USER_HOME$/jbrain/device/managers/device.py" />
       <jump line="661" column="48" filename="$USER_HOME$/jbrain/device/managers/device.py" />
@@ -226,59 +233,61 @@
       <jump line="117" column="8" filename="$USER_HOME$/jbrain/app/viewers.py" />
       <jump line="118" column="34" filename="$USER_HOME$/jbrain/app/viewers.py" />
       <jump line="119" column="22" filename="$USER_HOME$/jbrain/app/viewers.py" />
-      <jump line="120" column="35" filename="$USER_HOME$/jbrain/app/viewers.py" />
       <jump line="82" column="35" filename="$USER_HOME$/jbrain/app/viewers.py" />
       <jump line="101" column="35" filename="$USER_HOME$/jbrain/app/viewers.py" />
       <jump line="83" column="12" filename="$USER_HOME$/jbrain/app/viewers.py" />
+      <jump line="468" column="7" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="120" column="8" filename="$USER_HOME$/jbrain/app/viewers.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/jbrain/app/viewers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;&quot;</text>
+        <text>see Log class for how to init the page with a list</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;&quot;</text>
+        <text>see Log class for how to init the page with a list</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9wXD4=</text>
+        <text>debugrob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgUmVjaXBlVmlld1NldCh2aWV3c2V0cy5Nb2RlbFZpZXdTZXQpOgogICAgIiIiIEFQSSBlbmRwb2ludCB0aGF0IGFsbG93cyByZWNpcGVzIHRvIGJlIHZpZXdlZC4gIiIiCgo=</text>
+        <text encoding="base64">I2RlYnVncm9iLCBzZWUgTG9nIGNsYXNzIGZvciBob3cgdG8gaW5pdCB0aGUgcGFnZSB3aXRoIGEgbGlzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgQVBJIGVuZHBvaW50IHRvIGNyZWF0ZSBhIHJlY2lwZS4gIiIiCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgQVBJIGVuZHBvaW50IHRvIHN0YXJ0IGEgcmVjaXBlLiAiIiIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgQVBJIGVuZHBvaW50IHRvIHN0b3AgYSByZWNpcGUuICIiIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIiBkZWJ1Z3JvYiwgZnJvbSBSZWNpcGVWaWV3Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">OG96IGNoaWNrZW4sIHJpY2UsIHZlZ2dpZXMgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXJ0X3RpbWVzdGFtcF9taW51dGVzIjogc3RhcnRfdGltZXN0YW1wX21pbnV0ZXMsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInV1aWQiOiBwaywK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInR5cGUiOiBFdmVudFJlcXVlc3RzLlNUQVJUX1JFQ0lQRSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBldmVudF9yZXF1ZXN0ID0gewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIE1ha2UgZXZlbnQgcmVxdWVzdCBhbmQgcmV0dXJuIGV2ZW50IHJlc3BvbnNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImVycm9yIjogcnYuY29ubmVjdF9kaWN0WyJlcnJvciJdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoZSkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9wXD4=</last-search>
+      <last-search>debugrob</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9wXD4=</last-pattern>
+      <last-pattern>debugrob</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -288,7 +297,6 @@
         <entry encoding="base64">XDxkZXZpY2VfaWRcPg==</entry>
         <entry encoding="base64">XDxkZXZpY2VJZFw+</entry>
         <entry>lastConfigVer</entry>
-        <entry>debugrob</entry>
         <entry encoding="base64">XDxhYm91dFw+</entry>
         <entry>state</entry>
         <entry encoding="base64">XDxzeXNcPg==</entry>
@@ -304,6 +312,7 @@
         <entry>RecipeView</entry>
         <entry encoding="base64">XDxSZWNpcGVWaWV3ZXJcPg==</entry>
         <entry encoding="base64">XDxzdG9wXD4=</entry>
+        <entry>debugrob</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
