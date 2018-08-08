@@ -59,25 +59,25 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533748385385">
+      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533750266755">
         <mark key="a" line="458" column="8" />
         <mark key="b" line="464" column="3" />
-        <mark key="'" line="69" column="36" />
+        <mark key="'" line="454" column="13" />
         <mark key="[" line="468" column="23" />
         <mark key="]" line="468" column="53" />
         <mark key="." line="468" column="53" />
         <mark key="^" line="468" column="53" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/templates/connect.html" timestamp="1533749170660">
-        <mark key="'" line="17" column="11" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="47" />
-        <mark key="." line="7" column="47" />
-        <mark key="^" line="7" column="47" />
+      <file name="$USER_HOME$/jbrain/app/templates/connect.html" timestamp="1533749956660">
+        <mark key="'" line="22" column="11" />
+        <mark key="[" line="67" column="5" />
+        <mark key="]" line="67" column="5" />
+        <mark key="." line="67" column="5" />
+        <mark key="^" line="68" column="5" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/viewers.py" timestamp="1533738349076">
+      <file name="$USER_HOME$/jbrain/app/viewers.py" timestamp="1533750302787">
         <mark key="a" line="287" column="0" />
-        <mark key="'" line="2" column="0" />
+        <mark key="'" line="286" column="6" />
         <mark key="[" line="302" column="0" />
         <mark key="]" line="302" column="0" />
         <mark key="^" line="300" column="19" />
@@ -157,15 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="2" filename="$USER_HOME$/jbrain/app/templates/peripherals.html" />
-      <jump line="15" column="4" filename="$USER_HOME$/jbrain/app/templates/peripherals.html" />
-      <jump line="355" column="44" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="196" column="44" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="343" column="32" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="344" column="19" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="345" column="19" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="346" column="42" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="347" column="59" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="200" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="464" column="35" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="481" column="35" filename="$USER_HOME$/jbrain/app/views.py" />
@@ -203,7 +194,6 @@
       <jump line="17" column="30" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="461" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="492" column="28" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="454" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="460" column="22" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="476" column="39" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="319" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
@@ -257,16 +247,26 @@
       <jump line="62" column="7" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="12" column="6" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="15" column="11" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
+      <jump line="67" column="37" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
+      <jump line="22" column="11" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
+      <jump line="444" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="111" column="22" filename="$USER_HOME$/jbrain/app/viewers.py" />
+      <jump line="287" column="30" filename="$USER_HOME$/jbrain/app/viewers.py" />
+      <jump line="297" column="26" filename="$USER_HOME$/jbrain/app/viewers.py" />
+      <jump line="299" column="26" filename="$USER_HOME$/jbrain/app/viewers.py" />
+      <jump line="137" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="454" column="13" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="286" column="6" filename="$USER_HOME$/jbrain/app/viewers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>do POST with selected wifi to API to connect.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>do POST with selected wifi to API to connect.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWd1cmVXaWZpXD4=</text>
+        <text encoding="base64">XDxDb25uZWN0Vmlld2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIGRlYnVncm9iLCBkbyBQT1NUIHdpdGggc2VsZWN0ZWQgd2lmaSB0byBBUEkgdG8gY29ubmVjdC4K</text>
@@ -303,16 +303,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWd1cmVXaWZpXD4=</last-search>
+      <last-search encoding="base64">XDxDb25uZWN0Vmlld2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWd1cmVXaWZpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDb25uZWN0Vmlld2VyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deburob</entry>
-        <entry encoding="base64">XDx3aWZpc1w+</entry>
         <entry encoding="base64">XDxhamF4XD4=</entry>
         <entry encoding="base64">XDxHRVRcPg==</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
@@ -331,6 +329,8 @@
         <entry encoding="base64">XDxnZXRXaWZpc1w+</entry>
         <entry>getWif</entry>
         <entry encoding="base64">XDxjb25maWd1cmVXaWZpXD4=</entry>
+        <entry encoding="base64">XDxjb25uZWN0V2lmaVw+</entry>
+        <entry encoding="base64">XDxDb25uZWN0Vmlld2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
