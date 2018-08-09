@@ -32,12 +32,12 @@
         <mark key="." line="96" column="24" />
         <mark key="^" line="96" column="24" />
       </file>
-      <file name="$USER_HOME$/jbrain/connect/connect_manager.py" timestamp="1533826220412">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="94" column="47" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/jbrain/connect/connect_manager.py" timestamp="1533828230182">
+        <mark key="'" line="108" column="49" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="22" />
+        <mark key="^" line="91" column="22" />
+        <mark key="." line="91" column="22" />
       </file>
       <file name="$USER_HOME$/src/python/test.py" timestamp="1532975862122">
         <mark key="'" line="51" column="26" />
@@ -203,7 +203,6 @@
       <jump line="305" column="27" filename="$USER_HOME$/jbrain/resource/resource_manager.py" />
       <jump line="36" column="13" filename="$USER_HOME$/jbrain/resource/resource_manager.py" />
       <jump line="239" column="0" filename="$USER_HOME$/jbrain/resource/resource_manager.py" />
-      <jump line="105" column="25" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="294" column="4" filename="$USER_HOME$/jbrain/app/viewers.py" />
       <jump line="297" column="13" filename="$USER_HOME$/jbrain/app/viewers.py" />
       <jump line="76" column="28" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
@@ -250,13 +249,14 @@
       <jump line="145" column="20" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="157" column="2" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="0" column="0" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="105" column="49" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfSVAoc2VsZik6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>.get_wifis()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25uZWN0ZWRcPg==</text>
@@ -265,31 +265,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlLmNvbm5lY3RbIndpZmlzIl0gPSBzZWxmLmdldF93aWZpcygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfSVAoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3IgTm9uZSBpZiBub3Qgb24gdGhlIGludGVybmV0Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cy5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfSVAoc2VsZik6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQocy5nZXRzb2NrbmFtZSgpWzBdKQo=</text>
+        <text encoding="base64">cy5jbG9zZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cy5jb25uZWN0KCgiOC44LjguOCIsIDgwKSkK</text>
+        <text encoding="base64">cHJpbnQocy5nZXRzb2NrbmFtZSgpWzBdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cyA9IHNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsIHNvY2tldC5TT0NLX0RHUkFNKQo=</text>
+        <text encoding="base64">cy5jb25uZWN0KCgiOC44LjguOCIsIDgwKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">cyA9IHNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsIHNvY2tldC5TT0NLX0RHUkFNKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICd3bGFuMDogZmxhZ3MnIGluIG91dHB1dDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdChvdXRwdXQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICd3bGFuMDogZmxhZ3MnIGluIG91dHB1dDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
