@@ -31,14 +31,13 @@
         <mark key="." line="96" column="24" />
         <mark key="^" line="96" column="24" />
       </file>
-      <file name="$USER_HOME$/jbrain/connect/connect_manager.py" timestamp="1533912672237">
-        <mark key="a" line="155" column="12" />
-        <mark key="b" line="102" column="11" />
-        <mark key="'" line="97" column="28" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="46" />
-        <mark key="." line="147" column="25" />
-        <mark key="^" line="147" column="25" />
+      <file name="$USER_HOME$/jbrain/connect/connect_manager.py" timestamp="1533916188956">
+        <mark key="b" line="99" column="11" />
+        <mark key="'" line="105" column="1" />
+        <mark key="[" line="103" column="75" />
+        <mark key="]" line="104" column="7" />
+        <mark key="^" line="104" column="7" />
+        <mark key="." line="104" column="7" />
       </file>
       <file name="$USER_HOME$/src/python/test.py" timestamp="1532975862122">
         <mark key="'" line="51" column="26" />
@@ -50,14 +49,11 @@
       <file name="$USER_HOME$/jbrain/app/apps.py" timestamp="1533838538190">
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533912697146">
-        <mark key="a" line="501" column="19" />
-        <mark key="b" line="497" column="22" />
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="497" column="10" />
-        <mark key="]" line="497" column="20" />
-        <mark key="." line="497" column="20" />
-        <mark key="^" line="497" column="20" />
+      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533916051514">
+        <mark key="[" line="494" column="0" />
+        <mark key="]" line="494" column="56" />
+        <mark key="^" line="496" column="30" />
+        <mark key="." line="496" column="30" />
       </file>
       <file name="$USER_HOME$/jbrain/app/templates/connect.html" timestamp="1533911839727">
         <mark key="a" line="37" column="0" />
@@ -79,12 +75,12 @@
         <mark key="]" line="292" column="0" />
         <mark key="." line="292" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/connect/connect_utils.py" timestamp="1533913840488">
-        <mark key="'" line="113" column="22" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="115" column="26" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/jbrain/connect/connect_utils.py" timestamp="1533916292249">
+        <mark key="'" line="73" column="23" />
+        <mark key="[" line="58" column="11" />
+        <mark key="]" line="59" column="16" />
+        <mark key="^" line="59" column="16" />
+        <mark key="." line="59" column="16" />
       </file>
       <file name="$USER_HOME$/jbrain/app/models.py" timestamp="1533833333185">
         <mark key="a" line="64" column="0" />
@@ -155,14 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="17" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="182" column="8" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="126" column="1" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="127" column="36" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="454" column="1" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="477" column="1" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="455" column="0" filename="$USER_HOME$/jbrain/app/views.py" />
-      <jump line="476" column="1" filename="$USER_HOME$/jbrain/app/views.py" />
       <jump line="69" column="0" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="117" column="58" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="31" column="2" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
@@ -255,22 +243,30 @@
       <jump line="131" column="0" filename="$USER_HOME$/jbrain/connect/connect_utils.py" />
       <jump line="104" column="31" filename="$USER_HOME$/jbrain/connect/connect_utils.py" />
       <jump line="115" column="22" filename="$USER_HOME$/jbrain/connect/connect_utils.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="498" column="8" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="20" column="16" filename="$USER_HOME$/jbrain/connect/connect_utils.py" />
+      <jump line="5" column="7" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="104" column="7" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="105" column="1" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="73" column="23" filename="$USER_HOME$/jbrain/connect/connect_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>self</text>
+        <text>debugrob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gQ29ubmVjdFV0aWxzLmpvaW5fd2lmaSh3aWZpLCBwYXNzd29yZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -279,50 +275,48 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ZnJvbSBjb25uZWN0LmNvbm5lY3RfdXRpbHMgaW1wb3J0IENvbm5lY3RVdGlscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">T1IgbWFrZSBuZXcgY29ubmVjdC5weSBjbGFzcyB0aGF0IGlzIHVzZWQgaGVyZSBhbmQgaW4gdmlld3MucHkgZm9yIEFQSQo=</text>
+        <text encoding="base64">ZGVidWdyb2IsIGNhbGwgYmVsb3c/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdiA9IENvbm5lY3RWaWV3ZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0dXMgPSAnTm90IENvbm5lY3RlZCcK</text>
+        <text encoding="base64">ZnJvbSBhcHAubW9kZWxzIGltcG9ydCBDb25uZWN0TW9kZWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ZnJvbSBhcHAuc2VyaWFsaXplcnMgaW1wb3J0IENvbm5lY3RTZXJpYWxpemVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0dXMgPSAnQ29ubmVjdGVkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self</last-search>
+      <last-search>debugrob</last-search>
       <last-offset />
-      <last-pattern>self</last-pattern>
+      <last-pattern>debugrob</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aWZpTGlzdFw+</entry>
         <entry encoding="base64">XDx2YWxpZF9pbnRlcm5ldF9jb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxjb25maWd1cmVXaWZpXD4=</entry>
         <entry encoding="base64">XDxnZXRXaWZpXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3RlcklvVFw+</entry>
         <entry>post\c</entry>
         <entry encoding="base64">XDxkZXRhaWxfcm91dGVcPg==</entry>
-        <entry>debugrob</entry>
         <entry encoding="base64">XDxjcmVhdGVQZXJpcGhlcmFsRXZlbnRcPg==</entry>
         <entry>password</entry>
         <entry encoding="base64">XDx4XD4=</entry>
@@ -335,6 +329,8 @@
         <entry>Proc</entry>
         <entry encoding="base64">XDxDb25uZWN0TWFuYWdlclw+</entry>
         <entry>self</entry>
+        <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
+        <entry>debugrob</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
