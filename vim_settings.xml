@@ -50,20 +50,23 @@
       <file name="$USER_HOME$/jbrain/app/apps.py" timestamp="1533838538190">
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533909166170">
-        <mark key="b" line="473" column="3" />
-        <mark key="'" line="141" column="27" />
-        <mark key="[" line="484" column="53" />
-        <mark key="]" line="484" column="53" />
-        <mark key="." line="484" column="53" />
+      <file name="$USER_HOME$/jbrain/app/views.py" timestamp="1533910615739">
+        <mark key="a" line="88" column="6" />
+        <mark key="b" line="88" column="6" />
+        <mark key="c" line="484" column="4" />
+        <mark key="'" line="88" column="4" />
+        <mark key="[" line="485" column="4" />
+        <mark key="]" line="485" column="4" />
+        <mark key="^" line="484" column="4" />
+        <mark key="." line="485" column="4" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/templates/connect.html" timestamp="1533909407626">
+      <file name="$USER_HOME$/jbrain/app/templates/connect.html" timestamp="1533910378723">
         <mark key="a" line="37" column="0" />
         <mark key="'" line="7" column="52" />
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="44" column="29" />
-        <mark key="^" line="44" column="29" />
-        <mark key="." line="44" column="29" />
+        <mark key="[" line="50" column="6" />
+        <mark key="]" line="50" column="6" />
+        <mark key="^" line="46" column="47" />
+        <mark key="." line="50" column="6" />
       </file>
       <file name="$USER_HOME$/jbrain/device/state.py" timestamp="1533833509834">
         <mark key="'" line="245" column="8" />
@@ -101,9 +104,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="38" column="60" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/urls.py" timestamp="1533908982295">
+      <file name="$USER_HOME$/jbrain/app/urls.py" timestamp="1533910485289">
         <mark key="a" line="52" column="16" />
-        <mark key="'" line="89" column="0" />
+        <mark key="'" line="31" column="32" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="^" line="57" column="34" />
@@ -130,9 +133,9 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="46" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/templates/peripherals.html" timestamp="1533908453613">
+      <file name="$USER_HOME$/jbrain/app/templates/peripherals.html" timestamp="1533910471284">
         <mark key="a" line="456" column="0" />
-        <mark key="'" line="354" column="0" />
+        <mark key="'" line="351" column="22" />
         <mark key="[" line="456" column="0" />
         <mark key="]" line="503" column="9" />
       </file>
@@ -148,11 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="22" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="319" column="55" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="320" column="26" filename="$USER_HOME$/jbrain/device/managers/device.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="118" column="34" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="95" column="0" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="129" column="19" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
@@ -248,22 +246,27 @@
       <jump line="12" column="11" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="136" column="61" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="7" column="52" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
+      <jump line="351" column="22" filename="$USER_HOME$/jbrain/app/templates/peripherals.html" />
+      <jump line="31" column="32" filename="$USER_HOME$/jbrain/app/urls.py" />
+      <jump line="484" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="485" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
+      <jump line="88" column="4" filename="$USER_HOME$/jbrain/app/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0dXNcPg==</text>
+        <text encoding="base64">XDxFdmVudFZpZXdTZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdXJsOiAiL2FwaS9jb25uZWN0L2Nvbm5lY3Rfd2lmaS8iLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoc2VsZiwgcmVxdWVzdCk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBwZXJtaXNzaW9uX2NsYXNzZXMoKElzQXV0aGVudGljYXRlZCwgSXNBZG1pblVzZXIsKSkK</text>
+        <text encoding="base64">ICAgICNAcGVybWlzc2lvbl9jbGFzc2VzKChJc0F1dGhlbnRpY2F0ZWQsIElzQWRtaW5Vc2VyKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -272,43 +275,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgQHBlcm1pc3Npb25fY2xhc3NlcygoSXNBdXRoZW50aWNhdGVkLCBJc0FkbWluVXNlciwpKQo=</text>
+        <text encoding="base64">ICAgICNkZWYgbGlzdChzZWxmLCByZXF1ZXN0KToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBsaXN0X3JvdXRlKG1ldGhvZHM9W10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChldmVudF9pZCArICJFcnJvckFsZXJ0TWVzc2FnZSIpLmlubmVySFRNTCA9IG1lc3NhZ2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybDogIi9hcGkvY29ubmVjdC9jb25uZWN0X3dpZmkvIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAvLyBTZXQgYWxlcnQgbWVzc2FnZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjb25uZWN0Lmh0bWwgb25sb2FkIHdpZmlzPSIgKyB3aWZpcyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICBjb25zb2xlLmxvZygiQWxlcnQgbWVzc2FnZTogIiArIG1lc3NhZ2UpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFNldCBhbGVydCBtZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAvLyBHZXQgcmVzcG9uc2UgbWVzc2FnZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiQWxlcnQgbWVzc2FnZTogIiArIG1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiSm9pbiB3aWZpIGZhaWxlZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0dXNcPg==</last-search>
+      <last-search encoding="base64">XDxFdmVudFZpZXdTZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0dXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxFdmVudFZpZXdTZXRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>else</entry>
         <entry>Paste</entry>
         <entry encoding="base64">XDxtYWtlUGFzc3dvcmRWaXNpYmxlXD4=</entry>
         <entry>configureWi</entry>
@@ -320,7 +322,6 @@
         <entry>post\c</entry>
         <entry encoding="base64">XDxkZXRhaWxfcm91dGVcPg==</entry>
         <entry>debugrob</entry>
-        <entry>POST</entry>
         <entry encoding="base64">XDxjcmVhdGVQZXJpcGhlcmFsRXZlbnRcPg==</entry>
         <entry>password</entry>
         <entry encoding="base64">XDx4XD4=</entry>
@@ -328,6 +329,8 @@
         <entry encoding="base64">XDxjb25uZWN0V2lmaVw+</entry>
         <entry encoding="base64">XDxqb2luV2lmaVw+</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
+        <entry>POST</entry>
+        <entry encoding="base64">XDxFdmVudFZpZXdTZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
