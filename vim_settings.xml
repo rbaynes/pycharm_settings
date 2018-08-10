@@ -75,12 +75,13 @@
         <mark key="]" line="292" column="0" />
         <mark key="." line="292" column="0" />
       </file>
-      <file name="$USER_HOME$/jbrain/connect/connect_utils.py" timestamp="1533916292249">
-        <mark key="'" line="73" column="23" />
-        <mark key="[" line="58" column="11" />
-        <mark key="]" line="59" column="16" />
-        <mark key="^" line="59" column="16" />
-        <mark key="." line="59" column="16" />
+      <file name="$USER_HOME$/jbrain/connect/connect_utils.py" timestamp="1533916978141">
+        <mark key="a" line="76" column="8" />
+        <mark key="'" line="83" column="30" />
+        <mark key="[" line="53" column="45" />
+        <mark key="]" line="53" column="58" />
+        <mark key="^" line="53" column="58" />
+        <mark key="." line="53" column="58" />
       </file>
       <file name="$USER_HOME$/jbrain/app/models.py" timestamp="1533833333185">
         <mark key="a" line="64" column="0" />
@@ -151,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="117" column="58" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="31" column="2" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="107" column="0" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
@@ -251,22 +251,23 @@
       <jump line="104" column="7" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="105" column="1" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="73" column="23" filename="$USER_HOME$/jbrain/connect/connect_utils.py" />
+      <jump line="76" column="30" filename="$USER_HOME$/jbrain/connect/connect_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>wlan0</text>
       </register>
       <register name="/" type="4">
         <text>debugrob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gQ29ubmVjdFV0aWxzLmpvaW5fd2lmaSh3aWZpLCBwYXNzd29yZCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgQ29ubmVjdFV0aWxzLmlzX2JiYigpOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICB0cnk6CiAgICAgICAgICAgICMgY29tbWFuZCBhbmQgbGlzdCBvZiBhcmdzIGFzIGxpc3Qgb2Ygc3RyaW5nCiAgICAgICAgICAgIGNtZCA9IFsiaWZjb25maWciLCAid2xhbjAiXQogICAgICAgICAgICB3aXRoIHN1YnByb2Nlc3MuUG9wZW4oY21kLCBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkZXJyPXN1YnByb2Nlc3MuUElQRSkgYXMgcHJvYzE6CiAgICAgICAgICAgICAgICBvdXRwdXQgPSBwcm9jMS5zdGRvdXQucmVhZCgpLmRlY29kZSgidXRmLTgiKQogICAgICAgICAgICAgICAgb3V0cHV0ICs9IHByb2MxLnN0ZGVyci5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIpCiAgICAgICAgICAgICAgICBpZiAnd2xhbjA6IGZsYWdzJyBpbiBvdXRwdXQ6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -275,28 +276,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICd3bGFuMDogZmxhZ3MnIGluIG91dHB1dDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb25uZWN0LmNvbm5lY3RfdXRpbHMgaW1wb3J0IENvbm5lY3RVdGlscwo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVidWdyb2IsIGNhbGwgYmVsb3c/Cg==</text>
+        <text encoding="base64">ZGVidWdyb2IsIGltcGxlbWVudCB0aGlzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdiA9IENvbm5lY3RWaWV3ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhcHAubW9kZWxzIGltcG9ydCBDb25uZWN0TW9kZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuc2VyaWFsaXplcnMgaW1wb3J0IENvbm5lY3RTZXJpYWxpemVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsnd2lmaTEnLCAnd2lmaTInLCAnTUlUJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwbGF0Zm9ybS5ub2RlKCkgPT0gJ3JiYXluZXMubG9jYWwnOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
