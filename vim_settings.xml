@@ -16,6 +16,9 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" timestamp="1534257536595">
+        <mark key="'" line="296" column="58" />
+      </file>
       <file name="$USER_HOME$/jbrain/app/models.py" timestamp="1533833333185">
         <mark key="a" line="64" column="0" />
         <mark key="'" line="17" column="4" />
@@ -61,6 +64,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="92" column="25" />
       </file>
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/get_current_stats.py" timestamp="1534256742946">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
+      </file>
       <file name="$USER_HOME$/src/python/test.py" timestamp="1532975862122">
         <mark key="'" line="51" column="26" />
         <mark key="[" line="46" column="0" />
@@ -91,6 +99,9 @@
         <mark key="'" line="29" column="38" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="46" />
+      </file>
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" timestamp="1534257553675">
+        <mark key="'" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/jbrain/device/state.py" timestamp="1533833509834">
         <mark key="'" line="245" column="8" />
@@ -129,12 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="55" filename="$USER_HOME$/jbrain/app/templates/dashboard.html" />
-      <jump line="70" column="36" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
-      <jump line="94" column="42" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
-      <jump line="23" column="17" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
-      <jump line="27" column="17" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
-      <jump line="28" column="7" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="33" column="17" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="34" column="7" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
       <jump line="38" column="5" filename="$USER_HOME$/jbrain/app/templates/connect.html" />
@@ -229,22 +234,28 @@
       <jump line="93" column="57" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="32" column="0" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
       <jump line="92" column="57" filename="$USER_HOME$/jbrain/connect/connect_manager.py" />
+      <jump line="22" column="56" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="214" column="45" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="296" column="58" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="75" column="40" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlLmNvbm5lY3RbImlzX3dpZmlfYmJiIl0gPSBDb25uZWN0VXRpbHMuaXNfd2lmaV9iYmIoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc193aWZpX2JiYlw+</text>
+        <text>device_reg_no</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzWydpc193aWZpX2JiYiddID0gQ29ubmVjdFV0aWxzLmlzX3dpZmlfYmJiKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlLmNvbm5lY3RbImlzX3dpZmlfYmJiIl0gPSBDb25uZWN0VXRpbHMuaXNfd2lmaV9iYmIoKQo=</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -253,43 +264,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzWydpc193aWZpX2JiYiddID0gY3YuY29ubmVjdF9kaWN0Wydpc193aWZpX2JiYiddCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlLmNvbm5lY3RbImlzX3dpZmlfYmJiIl0gPSBDb25uZWN0VXRpbHMuaXNfd2lmaV9iYmIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzWydpc193aWZpX2JiYiddID0gY3YuY29ubmVjdF9kaWN0Wydpc193aWZpX2JiYiddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICd3bGFuMDogZmxhZ3MnIGluIG91dHB1dDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICd3bGFuMDogZmxhZ3MnIGluIG91dHB1dDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVidWdyb2IsIGltcGxlbWVudCB0aGlzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVidWdyb2IsIGltcGxlbWVudCB0aGlzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc193aWZpX2JiYlw+</last-search>
+      <last-search>device_reg_no</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc193aWZpX2JiYlw+</last-pattern>
+      <last-pattern>device_reg_no</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRXaWZpXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3RlcklvVFw+</entry>
         <entry>post\c</entry>
         <entry encoding="base64">XDxkZXRhaWxfcm91dGVcPg==</entry>
@@ -309,6 +319,7 @@
         <entry>debugrob</entry>
         <entry>is_wifi_bb</entry>
         <entry encoding="base64">XDxpc193aWZpX2JiYlw+</entry>
+        <entry>device_reg_no</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
