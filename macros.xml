@@ -1,8 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="find debugrob">
-      <typing text-keycode="47:0;68:0;69:0;66:0;85:0;71:0;82:0;79:0;66:0">/debugrob</typing>
-      <shortuct text="ENTER" />
+      <typing text-keycode="513:1;47:0;68:0;69:0;66:0;85:0;71:0;82:0;79:0;66:0">:/debugrob</typing>
+      <shortuct text="control M" />
     </macro>
   </component>
 </application>
