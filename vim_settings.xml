@@ -16,13 +16,13 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" timestamp="1534347017158">
-        <mark key="a" line="46" column="41" />
-        <mark key="'" line="427" column="24" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="73" />
-        <mark key="." line="42" column="73" />
-        <mark key="^" line="42" column="73" />
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" timestamp="1534348235647">
+        <mark key="a" line="47" column="41" />
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="42" column="38" />
+        <mark key="." line="42" column="38" />
+        <mark key="^" line="42" column="38" />
       </file>
       <file name="$USER_HOME$/jbrain/app/models.py" timestamp="1533833333185">
         <mark key="a" line="64" column="0" />
@@ -213,7 +213,6 @@
       <jump line="50" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="44" column="41" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="43" column="20" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="42" column="12" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="414" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="438" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="60" column="20" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
@@ -254,13 +253,14 @@
       <jump line="48" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="60" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="426" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9kZWJ1Z3JvYgo=</text>
+      <register name="&quot;" type="4">
+        <text>get from cookies or this.props.globalStore</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>get from cookies or this.props.globalStore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</text>
