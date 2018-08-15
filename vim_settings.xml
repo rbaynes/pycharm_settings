@@ -16,12 +16,13 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" timestamp="1534346240481">
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" timestamp="1534347017158">
         <mark key="a" line="46" column="41" />
-        <mark key="'" line="436" column="2" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="38" />
-        <mark key="." line="436" column="0" />
+        <mark key="'" line="427" column="24" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="73" />
+        <mark key="." line="42" column="73" />
+        <mark key="^" line="42" column="73" />
       </file>
       <file name="$USER_HOME$/jbrain/app/models.py" timestamp="1533833333185">
         <mark key="a" line="64" column="0" />
@@ -153,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="33" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="223" column="32" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="224" column="31" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="244" column="26" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="391" column="32" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
@@ -202,7 +201,6 @@
       <jump line="49" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
       <jump line="66" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="441" column="9" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="48" column="13" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="84" column="12" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="43" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
       <jump line="70" column="73" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
@@ -253,22 +251,25 @@
       <jump line="81" column="32" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
       <jump line="45" column="21" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="436" column="2" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="426" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSBhZnRlciA9JysgdGhpcy5wcm9wcy5kZXZpY2VfcmVnX25vKTsK</text>
+        <text encoding="base64">Ly9kZWJ1Z3JvYgo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWJ1Z3JvYlw+</text>
+        <text encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSA9JysgdGhpcy5wcm9wcy5kZXZpY2VfcmVnX25vKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSBhZnRlciA9JysgdGhpcy5wcm9wcy5kZXZpY2VfcmVnX25vKTsK</text>
+        <text encoding="base64">Ly9kZWJ1Z3JvYgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -285,37 +286,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSBiZWZvcmUgPScrIHRoaXMucHJvcHMuZGV2aWNlX3JlZ19ubyk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIGRpZCBtb3VudCBkZXZpY2VfcmVnX25vPScrIHRoaXMuc3RhdGUuZGV2aWNlX3JlZ19ubyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy5lcnJvcl9tZXNzYWdlfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuc2V0U3RhdGUoe2RldmljZV9yZWdfbm86dGhpcy5zdGF0ZS5kZXZpY2VfcmVnX25vfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSA9JysgdGhpcy5wcm9wcy5kZXZpY2VfcmVnX25vKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLmRldmljZV9yZWdfbm99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIEFkZERldmljZU1vZGFsIGRldmljZV9yZWdfbm89JysgdGhpcy5zdGF0ZS5kZXZpY2VfcmVnX25vKTsK</text>
+        <text encoding="base64">Ly8gaWQ9J3J1Zm91cy1zYW5kYm94Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGV2aWNlX3JlZ19ubz17dGhpcy5zdGF0ZS5kZXZpY2VfcmVnX25vfQo=</text>
+        <text encoding="base64">Ly8gaWQ9J2RldmljZV9yZWdfbm8nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9kZWJ1Z3JvYgo=</text>
+        <text encoding="base64">Ly9jb25zb2xlLmxvZygncnVmb3VzLXNhbmRib3g9JysgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3J1Zm91cy1zYW5kYm94JykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly9jb25zb2xlLmxvZygnZGV2aWNlX3JlZ19ubz0nKyBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZGV2aWNlX3JlZ19ubycpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWJ1Z3JvYlw+</last-search>
+      <last-search encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWJ1Z3JvYlw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -336,11 +337,11 @@
         <entry encoding="base64">XDxxdWVyeV9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxpc09wZW5cPg==</entry>
         <entry encoding="base64">XDx0b2dnbGVcPg==</entry>
-        <entry encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</entry>
         <entry encoding="base64">XDxvblN1Ym1pdERldmljZVw+</entry>
         <entry encoding="base64">XDxhZGRfZGV2aWNlX2Vycm9yX21lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxlcnJvcl9tZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
+        <entry encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
