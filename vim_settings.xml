@@ -16,13 +16,12 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" timestamp="1534345238533">
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" timestamp="1534346240481">
         <mark key="a" line="46" column="41" />
-        <mark key="'" line="69" column="13" />
-        <mark key="[" line="434" column="54" />
-        <mark key="]" line="434" column="54" />
-        <mark key="." line="434" column="54" />
-        <mark key="^" line="434" column="61" />
+        <mark key="'" line="436" column="2" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="436" column="0" />
       </file>
       <file name="$USER_HOME$/jbrain/app/models.py" timestamp="1533833333185">
         <mark key="a" line="64" column="0" />
@@ -110,12 +109,12 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="46" />
       </file>
-      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" timestamp="1534345233033">
-        <mark key="'" line="54" column="29" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="47" column="28" />
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" timestamp="1534346165193">
+        <mark key="'" line="79" column="32" />
+        <mark key="[" line="79" column="5" />
+        <mark key="]" line="79" column="5" />
+        <mark key="." line="79" column="5" />
+        <mark key="^" line="79" column="5" />
       </file>
       <file name="$USER_HOME$/jbrain/device/state.py" timestamp="1533833509834">
         <mark key="'" line="245" column="8" />
@@ -154,26 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="184" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="187" column="45" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="415" column="43" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="17" column="29" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="77" column="16" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="101" column="16" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="110" column="12" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="111" column="26" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="134" column="16" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="215" column="16" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="21" column="37" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="360" column="29" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="366" column="53" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="23" column="12" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="195" column="16" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="424" column="39" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="254" column="31" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="221" column="31" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="222" column="33" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="223" column="32" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="224" column="31" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
@@ -202,10 +181,8 @@
       <jump line="312" column="58" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="30" column="13" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
       <jump line="429" column="21" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="47" column="13" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="52" column="15" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="21" column="16" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
-      <jump line="46" column="41" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="86" column="21" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="87" column="21" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="88" column="21" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
@@ -224,7 +201,6 @@
       <jump line="313" column="17" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="49" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
       <jump line="66" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="436" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="441" column="9" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="48" column="13" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="84" column="12" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
@@ -237,11 +213,7 @@
       <jump line="431" column="25" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="56" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="50" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="53" column="20" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="45" column="13" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="44" column="41" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="434" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="43" column="20" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="42" column="12" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="414" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
@@ -251,25 +223,52 @@
       <jump line="24" column="5" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
       <jump line="432" column="2" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="49" column="13" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="69" column="13" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="48" column="19" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
       <jump line="55" column="29" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="442" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="64" column="44" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="26" column="5" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="65" column="44" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="63" column="36" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="437" column="50" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="26" column="12" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="46" column="23" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="47" column="50" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="51" column="57" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="53" column="7" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="68" column="48" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="69" column="60" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="434" column="39" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="220" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="24" column="12" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="206" column="16" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="246" column="21" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="79" column="8" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="28" column="5" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="62" column="36" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="435" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="443" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="48" column="28" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="81" column="32" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
+      <jump line="45" column="21" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="436" column="2" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSBhZnRlciA9JysgdGhpcy5wcm9wcy5kZXZpY2VfcmVnX25vKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2dnbGVcPg==</text>
+        <text encoding="base64">XDxkZWJ1Z3JvYlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIEFkZERldmljZU1vZGFsIGRldmljZV9yZWdfbm89JysgdGhpcy5zdGF0ZS5kZXZpY2VfcmVnX25vKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSA9JysgdGhpcy5wcm9wcy5kZXZpY2VfcmVnX25vKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIEFkZERldmljZU1vZGFsIGRybj0nKyBkcm4pOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSBhZnRlciA9JysgdGhpcy5wcm9wcy5kZXZpY2VfcmVnX25vKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -286,51 +285,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIEFkZERldmljZU1vZGFsLkRFRkFVTFRfU1RBVEUuZGV2aWNlX3R5cGU9JysgQWRkRGV2aWNlTW9kYWwuREVGQVVMVF9TVEFURS5kZXZpY2VfdHlwZSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSBiZWZvcmUgPScrIHRoaXMucHJvcHMuZGV2aWNlX3JlZ19ubyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7ZGV2aWNlX3JlZ19ubzp0aGlzLnN0YXRlLmRldmljZV9yZWdfbm99KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy5lcnJvcl9tZXNzYWdlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdFN0YXRlPXsnZGV2aWNlX3JlZ19ubycsIHRoaXMuc3RhdGUuZGV2aWNlX3JlZ19ub30K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSA9JysgdGhpcy5wcm9wcy5kZXZpY2VfcmVnX25vKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9kZWJ1Z3JvYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLmRldmljZV9yZWdfbm99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIEFkZERldmljZU1vZGFsIGRldmljZV9yZWdfbm89JysgdGhpcy5zdGF0ZS5kZXZpY2VfcmVnX25vKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGV2aWNlX3JlZ19ubz17dGhpcy5zdGF0ZS5kZXZpY2VfcmVnX25vfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtbbmFtZV06IHZhbHVlfSk7Cg==</text>
+        <text encoding="base64">Ly9kZWJ1Z3JvYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIG1vZGFsIHN0YXRlPScrIHRoaXMuc3RhdGUuZGV2aWNlX3JlZ19ubyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2dnbGVcPg==</last-search>
+      <last-search encoding="base64">XDxkZWJ1Z3JvYlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2dnbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWJ1Z3JvYlw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getelement\c</entry>
-        <entry>getElement</entry>
         <entry encoding="base64">XDxwb3N0VG9Ud2l0dGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRVc2VyRGV2aWNlc1w+</entry>
         <entry encoding="base64">XDxvblNlbGVjdERldmljZVw+</entry>
-        <entry encoding="base64">XDxvblN1Ym1pdERldmljZVw+</entry>
         <entry encoding="base64">XDx0b2dnbGVEZXZpY2VNb2RhbFw+</entry>
         <entry encoding="base64">XDxhZGRfZGV2aWNlX21vZGFsXD4=</entry>
-        <entry encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</entry>
         <entry>setState</entry>
         <entry encoding="base64">XDxjb21wb25lbnREaWRNb3VudFw+</entry>
         <entry encoding="base64">XDxpbml0U3RhdGVcPg==</entry>
@@ -340,8 +335,12 @@
         <entry>debugrob</entry>
         <entry encoding="base64">XDxxdWVyeV9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxpc09wZW5cPg==</entry>
-        <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
         <entry encoding="base64">XDx0b2dnbGVcPg==</entry>
+        <entry encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</entry>
+        <entry encoding="base64">XDxvblN1Ym1pdERldmljZVw+</entry>
+        <entry encoding="base64">XDxhZGRfZGV2aWNlX2Vycm9yX21lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxlcnJvcl9tZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -351,6 +350,7 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>/debugrob</entry>
+        <entry>bn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
