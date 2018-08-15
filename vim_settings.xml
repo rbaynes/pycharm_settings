@@ -16,22 +16,6 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" timestamp="1534348235647">
-        <mark key="a" line="47" column="41" />
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="42" column="11" />
-        <mark key="]" line="42" column="38" />
-        <mark key="." line="42" column="38" />
-        <mark key="^" line="42" column="38" />
-      </file>
-      <file name="$USER_HOME$/jbrain/app/models.py" timestamp="1533833333185">
-        <mark key="a" line="64" column="0" />
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1534258451146">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="62" />
@@ -44,13 +28,6 @@
         <mark key="." line="38" column="44" />
         <mark key="^" line="38" column="44" />
       </file>
-      <file name="$USER_HOME$/jbrain/run.sh" timestamp="1533310118970">
-        <mark key="'" line="67" column="15" />
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="90" />
-        <mark key="^" line="30" column="15" />
-      </file>
       <file name="$USER_HOME$/jbrain/app/serializers.py" timestamp="1533736758653">
         <mark key="a" line="51" column="6" />
         <mark key="'" line="96" column="18" />
@@ -59,13 +36,6 @@
         <mark key="." line="96" column="24" />
         <mark key="^" line="96" column="24" />
       </file>
-      <file name="$USER_HOME$/src/python/base64_encode.py" timestamp="1533316489207">
-        <mark key="'" line="46" column="45" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="38" column="60" />
-      </file>
       <file name="$USER_HOME$/jbrain/connect/connect_manager.py" timestamp="1534171118038">
         <mark key="a" line="92" column="28" />
         <mark key="'" line="92" column="57" />
@@ -73,11 +43,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="92" column="25" />
-      </file>
-      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/get_current_stats.py" timestamp="1534256742946">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
       </file>
       <file name="$USER_HOME$/src/python/test.py" timestamp="1532975862122">
         <mark key="'" line="51" column="26" />
@@ -88,6 +53,59 @@
       </file>
       <file name="$USER_HOME$/jbrain/app/apps.py" timestamp="1533838538190">
         <mark key="^" line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/jbrain/device/state.py" timestamp="1533833509834">
+        <mark key="'" line="245" column="8" />
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+      </file>
+      <file name="$USER_HOME$/jbrain/app/viewers.py" timestamp="1533912355255">
+        <mark key="'" line="59" column="38" />
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="292" column="0" />
+        <mark key="." line="292" column="0" />
+      </file>
+      <file name="$USER_HOME$/jbrain/connect/connect_utils.py" timestamp="1534171076774">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="62" />
+        <mark key="." line="30" column="61" />
+        <mark key="^" line="30" column="61" />
+      </file>
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" timestamp="1534350494484">
+        <mark key="a" line="42" column="2" />
+        <mark key="'" line="42" column="2" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="51" column="2" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/jbrain/app/models.py" timestamp="1533833333185">
+        <mark key="a" line="64" column="0" />
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/jbrain/run.sh" timestamp="1533310118970">
+        <mark key="'" line="67" column="15" />
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="90" />
+        <mark key="^" line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/python/base64_encode.py" timestamp="1533316489207">
+        <mark key="'" line="46" column="45" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="38" column="60" />
+      </file>
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/FlaskApiProvider/blueprints/get_current_stats.py" timestamp="1534256742946">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
       </file>
       <file name="$USER_HOME$/jbrain/device/managers/device.py" timestamp="1533838584461">
         <mark key="a" line="277" column="22" />
@@ -110,6 +128,9 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="46" />
       </file>
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/login.js" timestamp="1534350393497">
+        <mark key="'" line="53" column="2" />
+      </file>
       <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" timestamp="1534346165193">
         <mark key="'" line="79" column="32" />
         <mark key="[" line="79" column="5" />
@@ -117,12 +138,8 @@
         <mark key="." line="79" column="5" />
         <mark key="^" line="79" column="5" />
       </file>
-      <file name="$USER_HOME$/jbrain/device/state.py" timestamp="1533833509834">
-        <mark key="'" line="245" column="8" />
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-        <mark key="^" line="32" column="11" />
+      <file name="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/signup.js" timestamp="1534349972254">
+        <mark key="'" line="53" column="57" />
       </file>
       <file name="$USER_HOME$/jbrain/app/templates/peripherals.html" timestamp="1533910471284">
         <mark key="a" line="456" column="0" />
@@ -130,41 +147,24 @@
         <mark key="[" line="456" column="0" />
         <mark key="]" line="503" column="9" />
       </file>
-      <file name="$USER_HOME$/jbrain/app/viewers.py" timestamp="1533912355255">
-        <mark key="'" line="59" column="38" />
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="0" />
-        <mark key="." line="292" column="0" />
-      </file>
       <file name="$USER_HOME$/jbrain/app/templates/dashboard.html" timestamp="1533845489220">
         <mark key="'" line="169" column="21" />
         <mark key="[" line="207" column="0" />
         <mark key="]" line="207" column="15" />
-      </file>
-      <file name="$USER_HOME$/jbrain/connect/connect_utils.py" timestamp="1534171076774">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="62" />
-        <mark key="." line="30" column="61" />
-        <mark key="^" line="30" column="61" />
       </file>
       <file name="$USER_HOME$/jbrain/resource/resource_manager.py" timestamp="1533832827991">
         <mark key="a" line="268" column="0" />
         <mark key="'" line="302" column="17" />
         <mark key="^" line="269" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1534350953125">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="1" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="31" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="244" column="26" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="391" column="32" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="422" column="21" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="310" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="40" column="13" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="335" column="68" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="39" column="35" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="65" column="13" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="178" column="4" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="331" column="45" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="151" column="33" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="160" column="33" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
@@ -211,7 +211,6 @@
       <jump line="431" column="25" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="56" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="50" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="44" column="41" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="43" column="20" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="414" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="438" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
@@ -253,23 +252,35 @@
       <jump line="48" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="60" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="426" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/signup.js" />
+      <jump line="50" column="36" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/signup.js" />
+      <jump line="53" column="57" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/signup.js" />
+      <jump line="20" column="18" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/login.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="50" column="47" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/login.js" />
+      <jump line="54" column="16" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/login.js" />
+      <jump line="57" column="2" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/login.js" />
+      <jump line="61" column="15" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/login.js" />
+      <jump line="106" column="2" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/login.js" />
+      <jump line="40" column="2" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="62" column="28" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="42" column="2" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get from cookies or this.props.globalStore</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>get from cookies or this.props.globalStore</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</text>
+        <text encoding="base64">XDxkZWJ1Z3JvYlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIHRvZ2dsZSA9JysgdGhpcy5wcm9wcy5kZXZpY2VfcmVnX25vKTsK</text>
+        <text encoding="base64">LypkZWJ1Z3JvYiBkbyB1cmwgcmVkaXJlY3QgaW4gdGhlIHJvdXRlCiAgICAgICAgLy8gSWYgdGhlIFVSTCBjb250YWlucyAmdmNvZGU9PGNvZGU+LCBwb3B1cCB0aGUgcmVnaXN0cmF0aW9uIG1vZGFsCiAgICAgICAgdmFyIHF1ZXJ5X3BhcmFtcyA9IHJlcXVpcmUoJ3F1ZXJ5c3RyaW5nJykucGFyc2UodGhpcy5wcm9wcy5sb2NhdGlvbi5wYXRobmFtZSk7CiAgICAgICAgdmFyIHZjb2RlID0gcXVlcnlfcGFyYW1zWyd2Y29kZSddOwogICAgICAgIGlmKCB0eXBlb2YgdmNvZGUgIT0gJ3VuZGVmaW5lZCcpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ1Nob3dpbmcgZGV2aWNlIHJlZyB3aXRoIGNvZGU9JysgdmNvZGUpOwogICAgICAgICAgICB0aGlzLnN0YXRlLmRldmljZV9yZWdfbm8gPSB2Y29kZTsKICAgICAgICAgICAgdGhpcy5zdGF0ZVsnYWRkX2RldmljZV9tb2RhbCddID0gdHJ1ZTsKICAgICAgICB9CiovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9kZWJ1Z3JvYgo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -286,46 +297,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIGRpZCBtb3VudCBkZXZpY2VfcmVnX25vPScrIHRoaXMuc3RhdGUuZGV2aWNlX3JlZ19ubyk7Cg==</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMuc2V0U3RhdGUoe2RldmljZV9yZWdfbm86dGhpcy5zdGF0ZS5kZXZpY2VfcmVnX25vfSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIGxvZ2luIGJlZm9yZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaWQ9J3J1Zm91cy1zYW5kYm94Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcXVlcnlfcGFyYW1zID0gcmVxdWlyZSgncXVlcnlzdHJpbmcnKS5wYXJzZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJvcHMubG9jYXRpb24ucGF0aG5hbWUpOwovL2RlYnVncm9iLCBwYXNzIG9uIHRoZSB2Y29kZSAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgdmFyIHZjb2RlID0gcXVlcnlfcGFyYW1zWyd2Y29kZSddOwogICAgICAgICAgICAgICAgICAgIGlmKCB0eXBlb2YgdmNvZGUgIT0gJ3VuZGVmaW5lZCcpIHsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaWQ9J2RldmljZV9yZWdfbm8nCg==</text>
+        <text encoding="base64">Ly9kZWJ1Z3JvYiwgcGFzcyBvbiB0aGUgdmNvZGUgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9jb25zb2xlLmxvZygncnVmb3VzLXNhbmRib3g9JysgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3J1Zm91cy1zYW5kYm94JykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdGF0ZVsnYWRkX2RldmljZV9tb2RhbCddID0gdHJ1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9jb25zb2xlLmxvZygnZGV2aWNlX3JlZ19ubz0nKyBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZGV2aWNlX3JlZ19ubycpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdGF0ZS5kZXZpY2VfcmVnX25vID0gdmNvZGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</last-search>
+      <last-search encoding="base64">XDxkZWJ1Z3JvYlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZWJ1Z3JvYlw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3N0VG9Ud2l0dGVyXD4=</entry>
-        <entry encoding="base64">XDxnZXRVc2VyRGV2aWNlc1w+</entry>
-        <entry encoding="base64">XDxvblNlbGVjdERldmljZVw+</entry>
-        <entry encoding="base64">XDx0b2dnbGVEZXZpY2VNb2RhbFw+</entry>
         <entry encoding="base64">XDxhZGRfZGV2aWNlX21vZGFsXD4=</entry>
         <entry>setState</entry>
         <entry encoding="base64">XDxjb21wb25lbnREaWRNb3VudFw+</entry>
@@ -340,8 +347,12 @@
         <entry encoding="base64">XDxvblN1Ym1pdERldmljZVw+</entry>
         <entry encoding="base64">XDxhZGRfZGV2aWNlX2Vycm9yX21lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxlcnJvcl9tZXNzYWdlXD4=</entry>
-        <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
         <entry encoding="base64">XDxkZXZpY2VfcmVnX25vXD4=</entry>
+        <entry>redir</entry>
+        <entry>home</entry>
+        <entry>login</entry>
+        <entry encoding="base64">XDx1c2VyX3Rva2VuXD4=</entry>
+        <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
