@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="find debugrob">
+      <typing text-keycode="81:0;81:0;47:0;68:0;69:0;66:0;85:0;71:0;82:0;79:0;66:0">qq/debugrob</typing>
+      <shortuct text="ENTER" />
+      <typing text-keycode="81:0">q</typing>
+    </macro>
+  </component>
+</application>
