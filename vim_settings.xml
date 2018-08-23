@@ -59,6 +59,13 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="64" />
       </file>
+      <file name="$USER_HOME$/debian_packaging.md" timestamp="1535039076657">
+        <mark key="'" line="38" column="9" />
+        <mark key="[" line="73" column="64" />
+        <mark key="]" line="73" column="64" />
+        <mark key="." line="73" column="64" />
+        <mark key="^" line="73" column="64" />
+      </file>
       <file name="$USER_HOME$/jbrain/device/state.py" timestamp="1533833509834">
         <mark key="'" line="245" column="8" />
         <mark key="[" line="32" column="8" />
@@ -178,9 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="443" column="24" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
-      <jump line="48" column="28" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
-      <jump line="81" column="32" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/components/add_device_modal.js" />
       <jump line="45" column="21" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="436" column="2" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="48" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
@@ -278,22 +282,25 @@
       <jump line="102" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/login.js" />
       <jump line="20" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
       <jump line="24" column="0" filename="$USER_HOME$/openag-cloud-v1/UI-FlaskReact-AppEngineFlexVM/ReactFrontEnd/src/js/home.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/debian_packaging.md" />
+      <jump line="103" column="4" filename="$USER_HOME$/debian_packaging.md" />
+      <jump line="42" column="9" filename="$USER_HOME$/debian_packaging.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LypkZWJ1Z3JvYiBkbyB1cmwgcmVkaXJlY3QgaW4gdGhlIHJvdXRlICovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>debugrob</text>
+        <text encoding="base64">XDxXaGF0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIGxvZ2luIHZjb2RlPScrdGhpcy5zdGF0ZS52Y29kZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>Upload the package to our public package server</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LypkZWJ1Z3JvYiBkbyB1cmwgcmVkaXJlY3QgaW4gdGhlIHJvdXRlICovCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -310,43 +317,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIGhvbWUgdXU9Jyt0aGlzLnVzZXJfdXVpZCk7Cg==</text>
+        <text encoding="base64">ICAtIFNlZSB0b3AgbGluayBmb3IgZXhhbXBsZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMudXNlcl91dWlkID0gdGhpcy5wcm9wcy5sb2NhdGlvbi5wYXRobmFtZS5yZXBsYWNlKCIvaG9tZS8iLCAiIikucmVwbGFjZSgiIyIsICIiKQo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9kZWJ1Z3JvYiwgb2xkIGNvZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIGxvZ2luIGFmdGVyIG5ld19ocmVmPScrbmV3X2hyZWYpOwo=</text>
+        <text encoding="base64">YGBgCiAgICBtYW4gZGNoCiAgICBkY2ggLS1jcmVhdGUgLXYgMS4wLTEgLS1wYWNrYWdlIG9wZW5hZ2JyYWluCmBgYAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIGxvZ2luVXNlcigpIHZjb2RlPScrdGhpcy5zdGF0ZS52Y29kZSk7Cg==</text>
+        <text encoding="base64">ICAtIGRjaCBvcGVucyB2aSBvbiB0aGUgZGViaWFuL2NoYW5nZWxvZyBmaWxlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIGxvZ2luIGJlZm9yZSBuZXdfaHJlZj0nK25ld19ocmVmKTsK</text>
+        <text encoding="base64">ICAgICAgLSBkY2ggb3BlbnMgdmkgb24gdGhlIGRlYmlhbi9jaGFuZ2Vsb2cgZmlsZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RlYnVncm9iIGxvZ2luIHZjb2RlPScrdGhpcy5zdGF0ZS52Y29kZSk7Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9kZWJ1Z3JvYiwgYWRkIGluIHZjb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>debugrob</last-search>
+      <last-search encoding="base64">XDxXaGF0XD4=</last-search>
       <last-offset />
-      <last-pattern>debugrob</last-pattern>
+      <last-pattern encoding="base64">XDxXaGF0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRfZGV2aWNlX2Vycm9yX21lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxlcnJvcl9tZXNzYWdlXD4=</entry>
         <entry>redir</entry>
         <entry>home</entry>
@@ -366,6 +372,7 @@
         <entry encoding="base64">XDxkZWJ1Z3JvYlw+</entry>
         <entry>signup</entry>
         <entry>debugrob</entry>
+        <entry encoding="base64">XDxXaGF0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>qq</entry>
@@ -374,9 +381,9 @@
         <entry>bn</entry>
         <entry>bd</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -405,6 +412,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
